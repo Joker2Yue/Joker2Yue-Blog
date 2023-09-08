@@ -29,6 +29,7 @@
     "hexo-renderer-pug": "^3.0.0",
     "hexo-renderer-stylus": "^3.0.0",
     "hexo-server": "^3.0.0",
+    "hexo-theme-anzhiyu": "^1.6.6",
     "hexo-wordcount": "^6.0.1",
     "markdown-it-checkbox": "^1.1.0",
     "markdown-it-expandable": "^1.0.2",
