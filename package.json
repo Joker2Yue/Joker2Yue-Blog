@@ -12,6 +12,7 @@
     "version": "6.3.0"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.0.2",
     "hexo": "^6.3.0",
     "hexo-asset": "^1.0.0",
     "hexo-asset-image": "github:7ym0n/hexo-asset-image",
