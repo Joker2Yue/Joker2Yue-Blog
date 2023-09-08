@@ -1,0 +1,68 @@
+- class_name: 开启创造力
+  creativity_list:
+    - name: Java
+      color: "#fff"
+      icon: /images/creativity/java.jpg
+    - name: Docker
+      color: "#57b6e6"
+      icon: /images/creativity/docker.png
+    - name: Photoshop
+      color: "#4082c3"
+      icon: /images/creativity/photoshop.png
+    - name: Node
+      color: "#333"
+      icon: /images/creativity/nodejs.svg
+    - name: Webpack
+      color: "#2e3a41"
+      icon: /images/creativity/webpack.png
+    - name: Android
+      color: "#fff"
+      icon: /images/creativity/android.svg
+    - name: Python
+      color: "#fff"
+      icon: /images/creativity/python.png
+    - name: Vite
+      color: "#937df7"
+      icon: /images/creativity/vite.svg
+    - name: Tomcat
+      color: "#fefefe"
+      icon: /images/creativity/tomcat.jpg
+    - name: Vue
+      color: "#b8f0ae"
+      icon: /images/creativity/vue.png
+    - name: C
+      color: "#fefefe"
+      icon: /images/creativity/C.jpg
+    - name: CSS3
+      color: "#2c51db"
+      icon: /images/creativity/css3.png
+    - name: JS
+      color: "#f7cb4f"
+      icon: /images/creativity/javascript.png
+    - name: HTML
+      color: "#e9572b"
+      icon: /images/creativity/html5.png
+    - name: Git
+      color: "#df5b40"
+      icon: /images/creativity/git.webp
+    - name: Apifox
+      color: "#e65164"
+      icon: /images/creativity/apifox.png
+    - name: Github
+      color: "#fff"
+      icon: /images/creativity/github.png
+    - name: C++
+      color: "#fff"
+      icon: /images/creativity/C++.png
+    - name: Idea
+      color: "#dde2ef"
+      icon: /images/creativity/idea.svg
+    - name: Spring
+      color: "#fff"
+      icon: /images/creativity/spring.jpg
+    - name: Redis
+      color: "#fff"
+      icon: /images/creativity/redis.svg
+    - name: VSCode
+      color: "#fff"
+      icon: /images/creativity/vscode.png

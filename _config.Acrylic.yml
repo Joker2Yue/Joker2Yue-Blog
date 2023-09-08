@@ -1,0 +1,378 @@
+## Acrylic主题配置文件
+############################################################################################################
+# 为避免主题更新后，配置文件被覆盖，请复制一份此文件到站点根目录下的_config.Acrylic.yml文件中，修改_config.Acrylic.yml文件中的配置
+############################################################################################################
+# 修改此文件前，请仔细阅读官方文档：https://next-docs.acrylic.org.cn/
+############################################################################################################
+
+
+# 站点设置
+site:
+  name:                   # 左上角显示内容
+    class:  text          #i_class/text/img 
+    custom: Acrylic       #自定义内容
+  siteIcon: /images/favicon.ico # 网页icon
+  icon: /images/avatar_joker.jpg     # 页脚的icon、加载动画默认的icon
+  icp:                       # ICP
+
+# 导航栏
+nav:
+#导航栏左侧
+  left:
+    enable: false
+    menu:
+      # 我的:
+      #   博客:
+      #     icon: /img/avatar.webp
+      #     url: /
+# 导航栏内容
+  menu:
+    # 文库:
+    #   url: false
+    #   child:
+    #     文章列表:
+    #       url: /archives/
+    #       icon: fas fa-box-archive
+    #     全部分类:
+    #       url: /categories/
+    #       icon: fas fa-cube
+    #     全部标签:
+    #       url: /tags/
+    #       icon: fas fa-tags
+    # 友链:
+    #   url: false
+    #   child:
+    #     友链鱼塘:
+    #       url: /fcircle/
+    #       icon: fas fa-fish-fins
+    #     友情链接:
+    #       url: /links/
+    #       icon: fas fa-user-group
+    #     宝藏博主:
+    #       url: javascript:travelling()
+    #       icon: fas fa-bus
+
+# 导航栏右侧快捷菜单
+  right: # @todo 允许用户自定义
+    travellings: true   #开往
+    random: true        #
+    console: true       #控制台
+
+# heo式顶部一大坨
+hometop:
+  bbtime: false
+  banner:
+    enable: true
+    title: 分享设计<br>与科技生活
+    url: blog.zhheo.com
+    icon:
+      # AE:
+      #   img: /img/icon/ae.png
+      #   color: '#989bf8'
+        Java:
+          color: "#fff"
+          img: /images/creativity/java.jpg
+        Docker:
+          color: "#57b6e6"
+          img: /images/creativity/docker.png
+        Photoshop:
+          color: "#4082c3"
+          img: /images/creativity/photoshop.png
+        Node:
+          color: "#333"
+          img: /images/creativity/nodejs.svg
+        Webpack:
+          color: "#2e3a41"
+          img: /images/creativity/webpack.png
+        Android:
+          color: "#fff"
+          img: /images/creativity/android.svg
+        Python:
+          color: "#fff"
+          img: /images/creativity/python.png
+        Vite:
+          color: "#937df7"
+          img: /images/creativity/vite.svg
+        Tomcat:
+          color: "#fefefe"
+          img: /images/creativity/tomcat.jpg
+        Vue:
+          color: "#b8f0ae"
+          img: /images/creativity/vue.png
+        C:
+          color: "#fefefe"
+          img: /images/creativity/C.jpg
+        CSS3:
+          color: "#2c51db"
+          img: /images/creativity/css3.png
+        JS:
+          color: "#f7cb4f"
+          img: /images/creativity/javascript.png
+        HTML:
+          color: "#e9572b"
+          img: /images/creativity/html5.png
+        Git:
+          color: "#df5b40"
+          img: /images/creativity/git.webp
+        Apifox:
+          color: "#e65164"
+          img: /images/creativity/apifox.png
+        Github:
+          color: "#fff"
+          img: /images/creativity/github.png
+        C++:
+          color: "#fff"
+          img: /images/creativity/C++.png
+        Idea:
+          color: "#f3e6ea"
+          img: /images/creativity/idea.svg
+        Spring:
+          color: "#fff"
+          img: /images/creativity/spring.jpg
+        Redis:
+          color: "#fff"
+          img: /images/creativity/redis.svg
+        VSCode:
+          color: "#fff"
+          img: /images/creativity/vscode.png
+
+  
+  categoryGroup:
+    G1:
+      name: Acrylic
+      icon: fas fa-dove
+      url: /tags/Acrylic/
+    G2:
+      name: 热门文章
+      icon: fas fa-burn
+      url: /tags/热门/
+    G3:
+      name: 实用教程
+      icon: fas fa-book
+      url: /tags/教程/
+
+  recommendList:
+    sup: 置顶文章
+    title: 让Acrylic成为您的Hexo主题
+    url: /
+    img: /img/acrylic.png
+    color: '#006a73'
+
+# 个人卡片
+aside:
+  home:
+    noSticky: "about,flip"
+    Sticky: "newestPost,allInfo"
+  post:
+    noSticky: "about"
+    Sticky: "newestPost"
+  page:
+    noSticky: "about,flip"
+    Sticky: "newestPost,allInfo"
+
+  card:
+    avatar: 
+    content: 这有关于<b>开发</b>、<b>技术</b>相关的问题和看法，还有对于动漫的一些<b>杂评</b>。<br>相信你可以在这里找到对你有用的知识和教程。
+    information:
+      # Github:
+      #   icon: fa-brands fa-github
+      #   url: https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic-Next
+      # Mail:
+      #   icon: fa-solid fa-envelope
+      #   url: mailto:a@nalex.top
+    button:
+      text: 个人主页
+      url: /
+
+  flip:
+    color: '#0099FF'
+    face:
+      title: QQ群
+      desc: 加入官方QQ群与我们交流
+    backface:
+      title: 扫一扫
+      desc: 获取最新信息和帮助
+      img: /img/qqgroup.png
+
+  toc: 
+    post: true
+    page: false
+
+  # 建站时间
+  siteinfo:
+    postcount: true
+    wordcount: false
+    pv: false
+    uv: false
+    updatetime: false
+    runtimeenable: true
+    runtime: '2021-12-12 00:00:00'
+
+# 页脚
+footer:
+  information:
+    left:
+      # Github:
+      #   icon: fa-brands fa-github
+      #   url: /
+      # Mail:
+      #   icon: fa-solid fa-envelope
+      #   url: /
+    right:
+      # 网易云:
+      #   icon: fa-solid fa-music
+      #   url: /
+      # bilibili:
+      #   icon: fa-brands fa-bilibili
+      #   url: /
+
+  group:
+    # 导航:
+    #   文章归档: /archives/
+    #   文章分类: /categories/
+    #   文章标签: /tags/
+    #   友链: /link/
+    # 服务:
+    #   51la统计: https://51.la/
+    #   百度统计: https://tongji.baidu.com/
+    #   TianliCDN: https://ql.tianli0.top/
+    # Acrylic:
+    #   主题官网: https://acrylic.zhheo.com/
+    #   Github: https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic
+    #   Heo: https://blog.zhheo.com/
+    # 推荐友链:
+    #   Heo: https://blog.zhheo.com/
+    #   Akilar: https://akilar.top
+
+  randomlink: false
+
+  cdn:
+    url: 
+    desc: 
+  rss:
+    url: 
+  license:
+    url: https://creativecommons.org/licenses/by/4.0/
+    icon: fas fa-closed-captioning
+
+
+page:
+  error: true
+  tags: true
+  categories: true
+  default:
+    cover: /img/hello.jpg   
+
+# 文章页默认设置
+post:
+  default:
+    cover: /img/hello.jpg
+    locate: 北京
+    copyright: 原创
+  meta:
+    date: true
+    updated: false
+    locate: true
+    wordcount: false
+    readtime: false
+    pv: false
+    comment: false      
+  award:
+    enable: false
+    wechat:
+    alipay:
+    url:
+  covercolor: #文章cover取色  
+    enable: false
+    local: false  
+
+# 关于界面
+about: false
+
+# 404页面
+errorpage:
+  img: /img/acrylic.png
+  text: =awa= 页面走丢了
+  recommendList: true
+
+# 懒加载
+lazyload:
+  enable: false
+  placeholder: /img/acrylic.png
+  errorimg: /img/acrylic.png
+
+# 图片灯箱
+lightbox: true
+
+#代码高亮增强
+hightlight:
+  enable: false
+  hightlimit: 200
+
+# 加载动画
+loading:
+  fullpage: false
+  pace: false
+
+# 第三方设置
+thirdparty:
+  wordcount: false
+  busuanzi: 
+    enable: false
+    usecomment: false #当评论系统开启时文章页面使用评论系统的统计数据
+  search:
+    algolia_search:
+      enable: false
+      # hits:
+      #   per_page: 6
+    local_search:
+      enable: false
+      preload: false
+      CDN:
+    
+  aplayer:
+    enable: false
+    server: tencent
+    id: 1708664797  
+    api: "https://music.startly.cn/?server=:server&type=:type&id=:id&auth=:auth&r=:r" #自定义api    
+  #中控台拓展
+  consolePlus: true
+
+# 评论
+comment:
+  enable: false
+  twikoo:
+    envId:
+    # region: ap-shanghai
+    path: window.location.pathname
+
+
+# 插入代码到头部 </head> 之前 和 底部 </body> 之前
+# 插入额外代码 如：统计，广告等
+extends: 
+  head: # 在head中插入
+    # - <script></script>
+  body: # 在body中插入
+
+# 非必要勿动
+cdn:
+  head:
+    pacejs: https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/pace/1.2.4/pace.min.js
+    fontawesomecss: https://cdn.bootcdn.net/ajax/libs/font-awesome/6.3.0/css/all.min.css
+    snackbarcss: /lib/snackbar.min.css
+    qrcodejs: /lib/qrcode.min.js
+    twikoojs: https://cdn.staticfile.org/twikoo/1.6.10/twikoo.all.min.js
+    instantsearch: https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/instantsearch.js/4.39.0/instantsearch.production.min.js
+    algolia: https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/algoliasearch/4.12.1/algoliasearch-lite.umd.min.js
+  body:
+    swipercss: /lib/swiper.min.css
+    pjaxjs: /lib/pjax.min.js
+    lazyloadjs: /lib/lazyload.min.js
+    snackbarjs: /lib/snackbar.min.js
+    viewimagejs: /lib/view-image.min.js
+    waterfalljs: /lib/waterfall.min.js
+    swiperjs: /lib/swiper.min.js
+    busuanzijs: https://npm.elemecdn.com/penndu@1.0.0/bsz.js
+    aplayercss: https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css
+    aplayerjs: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.js
+    metingjs: lib/meting.min.js

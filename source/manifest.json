@@ -1,0 +1,37 @@
+{
+  "name": "Joker2Yue的个人博客",
+  "short_name": "Joker2Yue",
+  "theme_color": "#3b70fc",
+  "background_color": "#3b70fc",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/",
+  "id": "/",
+  "icons": [
+    {
+      "src": "images/siteicon/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/siteicon/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "images/siteicon/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/siteicon/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "splash_pages": null
+}

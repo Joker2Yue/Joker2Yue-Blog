@@ -1,0 +1,112 @@
+- class_name: 关于我
+  subtitle: Joker Never Plays Jokes.✨
+  avatarImg: /images/avatar_joker.jpg
+  name: 罗越
+  description: 00后，学生、程序猿、独立开发者、个人博主、数码爱好者
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 旅行
+  helloAbout: Hello There!
+  avatarSkills:
+    left:
+      - "🤖️ 数码科技爱好者"
+      - "🔍 分享与热心帮助"
+      - "🏠 智能家居小能手"
+      - "🔨 设计开发一条龙"
+    right:
+      - "专修交互与设计 🤝"
+      - "脚踏实地行动派 🏃"
+      - "团队小组发动机 🧱"
+      - "壮汉人狠话不多 💢"
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    list:
+      - desc: HNIT，软件工程专业
+        color: "#357ef5"
+    img: /images/about/career/life.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 现居
+    StrengthenTitle: 中国，邵阳
+    background: /images/about/location/location_light.png
+    backgroundDark: /images/about/location/location_dark.png
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2004
+    selfInfoTips2: 湖南工学院
+    selfInfoContent2: 软件工程
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 大三学生👨‍🎓
+  personalities:
+    author_name: 竞选者
+    personality_type: ENFP-T
+    color: "#fff"
+    photo_url: /images/about/personality/self.jpg
+    personality_img: /images/about/personality/ENFP_full_left.png
+    name_url: https://www.16personalities.com/ch/enfp-人格
+  maxim:
+    maxim_tips: 想对你说
+    maxim_top: 青春没有售价，
+    maxim_bottom: 疯狂就在当下。
+  buff:
+    buff_tips: 描述
+    buff_top: 极品 小学生
+    buff_bottom: 痴呆指数 120%
+  game:
+    game_tips: 爱好游戏
+    game_title: 和平精英
+    game_uid: "UID: 4125535520"
+    game_bg: /images/about/game/pubgmobi.jpg
+  comic:
+    comic_tips: 哔哩哔哩
+    comic_title: 推荐博主
+    comic_list:
+      - name: 韩顺平
+        href: https://space.bilibili.com/651245581
+        cover: https://i2.hdslb.com/bfs/archive/d5271b381c32b0eb80bf82e8b4045c2713fbb600.png@320w_200h_1c_!web-space-index-myvideo.webp
+      - name: 翁恺c语言
+        href: https://www.bilibili.com/video/BV1dr4y1n7vA/
+        cover: https://i0.hdslb.com/bfs/archive/f9068917b672cfb7dd5e7772c7adc53b4ab0ba8b.jpg@672w_378h_1c_!web-search-common-cover.webp
+      - name: 遇见狂神说
+        href: https://space.bilibili.com/95256449
+        cover: https://i1.hdslb.com/bfs/archive/41575b1afec5305fa329d1cdf853373955d4e62a.jpg@672w_378h_1c_!web-search-common-cover.webp
+      - name: 黑马程序员
+        href: https://space.bilibili.com/37974444
+        cover: https://i2.hdslb.com/bfs/archive/e324834c33ca9e9ce64bab15e743c16a19765435.jpg@672w_378h_1c_!web-search-common-cover.webp
+      - name: 动力节点
+        href: https://space.bilibili.com/76542346
+        cover: https://i2.hdslb.com/bfs/archive/08a7d83bc24eb476d1502924a29dd2d5fb33e553.jpg@440w_276h_1c_!web-space-index-topvideo.webp
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 薛之谦、流行、华语
+    music_bg: /images/about/music/joker_xue.jpg
+    music_link: /music/?id=2641807443&server=tencent
+  reward_list:
+    - name: 宇·默
+      amount: 9
+      suffix: ''
+      datatime: 2023-08-28
+    - name: 薛之谦的小烨烨
+      amount: 6.6
+      datatime: 2023-08-29
+    - name: 时间依夏
+      amount: 5
+      datatime: 2023-09-02
