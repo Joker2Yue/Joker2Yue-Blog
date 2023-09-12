@@ -1084,11 +1084,6 @@
   dependencies:
     "@types/node" "*"
 
-"@vercel/analytics@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.npmjs.org/@vercel/analytics/-/analytics-1.0.2.tgz"
-  integrity sha512-BZFxVrv24VbNNl5xMxqUojQIegEeXMI6rX3rg1uVLYUEXsuKNBSAEQf4BWEcjQDp/8aYJOj6m8V4PUA3x/cxgg==
-
 a-sync-waterfall@^1.0.0:
   version "1.0.1"
   resolved "https://registry.npmmirror.com/a-sync-waterfall/-/a-sync-waterfall-1.0.1.tgz"
@@ -1152,16 +1147,16 @@ ajv@^8.6.0, ajv@>=8:
     uri-js "^4.2.2"
 
 ali-oss@^6.1.1:
-  version "6.18.0"
-  resolved "https://registry.npmjs.org/ali-oss/-/ali-oss-6.18.0.tgz"
-  integrity sha512-6wjHOsLvIsAkp9EZRocp99I2DZUHUti4vbap57vhbfQR/0mrZBwzMfGkLE9cmG2F4J9hYQWvVy3GbKjDLdrSGw==
+  version "6.18.1"
+  resolved "https://registry.npmjs.org/ali-oss/-/ali-oss-6.18.1.tgz"
+  integrity sha512-VsptD0jX3JNc3AjiLs5a9oTP0ArfT9IYhBuY6G/SpuY6LMuiwfqywrAosY65BlHKODAdYy8VWL6kmt0mO7BUGA==
   dependencies:
     address "^1.2.2"
     agentkeepalive "^3.4.1"
     bowser "^1.6.0"
     copy-to "^2.0.1"
     dateformat "^2.0.0"
-    debug "^2.2.0"
+    debug "^4.3.4"
     destroy "^1.0.4"
     end-or-error "^1.0.1"
     get-ready "^1.0.0"
@@ -1176,9 +1171,9 @@ ali-oss@^6.1.1:
     sdk-base "^2.0.1"
     stream-http "2.8.2"
     stream-wormhole "^1.0.4"
-    urllib "^2.33.1"
+    urllib "2.41.0"
     utility "^1.18.0"
-    xml2js "^0.4.16"
+    xml2js "^0.6.2"
 
 ansi-regex@^5.0.1:
   version "5.0.1"
@@ -1737,7 +1732,7 @@ dateformat@^2.0.0:
   resolved "https://registry.npmjs.org/dateformat/-/dateformat-2.2.0.tgz"
   integrity sha512-GODcnWq3YGoTnygPfi02ygEiRxqUxpJwuRHjdhJYuxpcZmDq4rjBiXYmbCCzStxo176ixfLT6i4NPwQooRySnw==
 
-debug@^2.2.0, debug@^2.6.9, debug@2.6.9:
+debug@^2.6.9, debug@2.6.9:
   version "2.6.9"
   resolved "https://registry.npmmirror.com/debug/-/debug-2.6.9.tgz"
   integrity sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA==
@@ -1761,6 +1756,13 @@ debug@^4.1.1:
 debug@^4.3.2:
   version "4.3.4"
   resolved "https://registry.npmmirror.com/debug/-/debug-4.3.4.tgz"
+  integrity sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==
+  dependencies:
+    ms "2.1.2"
+
+debug@^4.3.4:
+  version "4.3.4"
+  resolved "https://registry.npmjs.org/debug/-/debug-4.3.4.tgz"
   integrity sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==
   dependencies:
     ms "2.1.2"
@@ -2643,14 +2645,6 @@ hexo-server@^3.0.0:
     open "^8.0.9"
     picocolors "^1.0.0"
     serve-static "^1.14.1"
-
-hexo-theme-anzhiyu@^1.6.6:
-  version "1.6.6"
-  resolved "https://registry.npmjs.org/hexo-theme-anzhiyu/-/hexo-theme-anzhiyu-1.6.6.tgz"
-  integrity sha512-jeVrvcaepv2Wpz155addnqPQeBCHGpHhpF9A6R9ZvTmG7xBpuYekDIHDrFDyvhePNdL+e5uuaQkNTRH25T2OYA==
-  dependencies:
-    hexo-renderer-pug "^3.0.0"
-    hexo-renderer-stylus "^3.0.0"
 
 hexo-util@^2.0.0, hexo-util@^2.5.0, hexo-util@^2.7.0:
   version "2.7.0"
@@ -4933,7 +4927,7 @@ uri-js@^4.2.2:
   dependencies:
     punycode "^2.1.0"
 
-urllib@^2.33.1:
+urllib@2.41.0:
   version "2.41.0"
   resolved "https://registry.npmjs.org/urllib/-/urllib-2.41.0.tgz"
   integrity sha512-pNXdxEv52L67jahLT+/7QE+Fup1y2Gc6EdmrAhQ6OpQIC2rl14oWwv9hvk1GXOZqEnJNwRXHABuwgPOs1CtL7g==
@@ -5254,10 +5248,10 @@ ws@8.5.0:
   resolved "https://registry.npmmirror.com/ws/-/ws-8.5.0.tgz"
   integrity sha512-BWX0SWVgLPzYwF8lTzEy1egjhS4S4OEAHfsO8o65WOVsrnSRGaSiUaa9e0ggGlkMTtBlmOpEXiie9RUcBO86qg==
 
-xml2js@^0.4.16:
-  version "0.4.23"
-  resolved "https://registry.npmjs.org/xml2js/-/xml2js-0.4.23.tgz"
-  integrity sha512-ySPiMjM0+pLDftHgXY4By0uswI3SPKLDw/i3UXbnO8M/p28zqexCUoPmQFrYD+/1BzhGJSs2i1ERWKJAtiLrug==
+xml2js@^0.6.2:
+  version "0.6.2"
+  resolved "https://registry.npmjs.org/xml2js/-/xml2js-0.6.2.tgz"
+  integrity sha512-T4rieHaC1EXcES0Kxxj4JWgaUQHDk+qwHcYOCFHfiwKz7tOVPLq7Hjq9dM1WCMhylqMEfP7hMcOIChvotiZegA==
   dependencies:
     sax ">=0.6.0"
     xmlbuilder "~11.0.0"

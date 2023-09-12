@@ -12,7 +12,6 @@
     "version": "6.3.0"
   },
   "dependencies": {
-    "@vercel/analytics": "^1.0.2",
     "hexo": "^6.3.0",
     "hexo-asset": "^1.0.0",
     "hexo-asset-image": "github:7ym0n/hexo-asset-image",
@@ -30,7 +29,6 @@
     "hexo-renderer-pug": "^3.0.0",
     "hexo-renderer-stylus": "^3.0.0",
     "hexo-server": "^3.0.0",
-    "hexo-theme-anzhiyu": "^1.6.6",
     "hexo-wordcount": "^6.0.1",
     "markdown-it-checkbox": "^1.1.0",
     "markdown-it-expandable": "^1.0.2",
