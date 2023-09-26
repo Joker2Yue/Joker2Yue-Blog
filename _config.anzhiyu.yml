@@ -74,7 +74,7 @@ social:
 author_status:
   enable: true
   # 可以是任何图片，建议放表情包或者emoji图片，效果都很好，[表情包速查](https://emotion.xiaokang.me/)
-  statusImg: "https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/statusImg/喜笑颜开.png"
+  statusImg: "/images/statusImg/喜笑颜开.png"
   skills:
      - 🤖️ 数码科技爱好者
      - 🔍 分享与热心帮助
@@ -173,11 +173,11 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/favicon.ico
+favicon: /images/favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/avatar_joker.jpg
+  img: /images/avatar_joker.jpg
   effect: false
 
 # Disable all banner image
@@ -199,21 +199,21 @@ cover:
   position: left
   # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
   default_cover:
-      - https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/coverImg/default/default_cover1.png
-      - https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/coverImg/default/default_cover2.jpg
-      - https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/coverImg/default/default_cover3.jpg
-      - https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/coverImg/default/default_cover4.jpg
+      - /images/coverImg/default/default_cover1.png
+      - /images/coverImg/default/default_cover2.jpg
+      - /images/coverImg/default/default_cover3.jpg
+      - /images/coverImg/default/default_cover4.jpg
 
 # Replace Broken Images (替换无法显示的图片)
 error_img:
-  flink: https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/joker_404.png
-  post_page: https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/404.jpg
+  flink: /images/joker_404.png
+  post_page: /images/404.jpg
 
 # A simple 404 page
 error_404:
   enable: true
   subtitle: "哎呀，页面走丢咯"
-  background: https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/joker_404.png
+  background: /images/joker_404.png
 
 post_meta:
   page: # Home Page
@@ -286,10 +286,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/reward/wechat.png
+    - img: /images/reward/wechat.png
       link:
       text: 微信
-    - img: https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/reward/alipay.png
+    - img: /images/reward/alipay.png
       link:
       text: 支付宝
 
@@ -820,7 +820,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/avatar_joker.jpg
+  avatar: /images/avatar_load.jpg
 
 # aside (侧边栏)
 # --------------------------------------
@@ -1004,7 +1004,7 @@ pjax:
   exclude:
     - /music/
     - /no-pjax/
-    - https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/
+    - /images/
 
 # Inject the css and script (aplayer/meting)
 aplayerInject:
@@ -1048,11 +1048,11 @@ pwa:
   startup_image_enable: true
   manifest: /manifest.json
   theme_color: var(--anzhiyu-main)
-  mask_icon: https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/siteicon/apple-icon-180.png
-  apple_touch_icon: https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/siteicon/apple-icon-180.png
-  bookmark_icon: https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/siteicon/apple-icon-180.png
-  favicon_32_32: https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/siteicon/32.png
-  favicon_16_16: https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/siteicon/16.png
+  mask_icon: /images/siteicon/apple-icon-180.png
+  apple_touch_icon: /images/siteicon/apple-icon-180.png
+  bookmark_icon: /images/siteicon/apple-icon-180.png
+  favicon_32_32: /images/siteicon/32.png
+  favicon_16_16: /images/siteicon/16.png
 
 # Open graph meta tags
 # https://developers.facebook.com/docs/sharing/webmasters/
@@ -1092,7 +1092,7 @@ home_top:
   banner:
     tips: Joker2Yue.github.io
     title: 关于本站
-    image: https://cdn.jsdelivr.net/gh/Joker2Yue/jsDilivr/source/images/banner/banner.jpg
+    image: /images/banner/banner.jpg
     link: /website/
 
 # 朋友圈配置
@@ -1301,7 +1301,7 @@ CDN:
     # pjax: https://lib.baomitu.com/pjax/0.2.8/pjax.min.js
     # blueimp_md5:
     # valine:
-    twikoo: https://cdn.staticfile.org/twikoo/1.6.19/twikoo.all.min.js
+    twikoo: https://cdn.staticfile.org/twikoo/1.6.20/twikoo.all.min.js
     # waline_js:
     # waline_css:
     # sharejs: https://lib.baomitu.com/social-share.js/latest/js/social-share.min.js
@@ -1313,7 +1313,7 @@ CDN:
     # canvas_ribbon:
     # canvas_fluttering_ribbon:
     # canvas_nest:
-    lazyload: https://cdn.cbd.int/vanilla-lazyload@17.8.4/dist/lazyload.iife.min.js
+    lazyload: https://cdn.cbd.int/vanilla-lazyload@latest/dist/lazyload.iife.min.js
     instantpage: https://npm.elemecdn.com/instant.page@latest/instantpage.js
     # typed:
     # pangu:
