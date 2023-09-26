@@ -219,7 +219,7 @@ post_meta:
   page: # Home Page
     date_type: created # created or updated or both 主页文章日期是创建日或者更新日或都显示
     date_format: simple # date/relative/simple 显示日期还是相对日期 或者 简单日期
-    categories: false # true or false 主页是否显示分类
+    categories: true # true or false 主页是否显示分类
     tags: true # true or false 主页是否显示标籤
     label: false # true or false 显示描述性文字
   post:
@@ -822,7 +822,7 @@ aside:
   display: # 控制对应详情页面是否显示侧边栏
     archive: true
     tag: true
-    category: true
+    category: false
   card_author:
     enable: true
     description:  <div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">我热衷于在<b style="color:#fff">数字世界</b>中寻找灵感，用<b style="color:#fff">文字</b>来记录下每一个<b style="color:#fff">思考和发现</b>。</div><div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">感谢你的光临，希望我的博客能为你带来有<b style="color:#fff">价值</b>的信息，<b style="color:#fff">享受</b>阅读的乐趣！</div> # 默认为站点描述
@@ -848,12 +848,14 @@ aside:
     sort_order: # Don't modify the setting unless you know how it works
   card_tags:
     enable: true
-    limit: 40 # if set 0 will show all
+    limit: 30 # if set 0 will show all
     color: false
     sort_order: # Don't modify the setting unless you know how it works
     highlightTags:
        - 技术
        - Java
+       - 狂神
+       - 必看
   card_archives:
     enable: true
     type: monthly # yearly or monthly
