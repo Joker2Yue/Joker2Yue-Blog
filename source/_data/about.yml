@@ -53,6 +53,7 @@
   personalities:
     author_name: 竞选者
     personality_type: ENFP-T
+    personality_type_color: "#33a474"
     color: "#fff"
     photo_url: /images/about/personality/self.jpg
     personality_img: /images/about/personality/ENFP_full_left.png
