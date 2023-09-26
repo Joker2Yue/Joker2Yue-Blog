@@ -397,7 +397,7 @@ waline:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://joker2yue-twikoo.vercel.app//
+  envId: https://joker2yue-twikoo.vercel.app/
   region: ap-hunan
   visitor: false
   option:
