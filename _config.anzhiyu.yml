@@ -30,7 +30,7 @@ nav:
     - title: 网页
       item:
         - name: 博客
-          link: https://Joker2Yue.github.io/
+          link: https://Blog.Joker2Yue.Top/
           icon: /img/favicon.ico
     - title: 项目
       item:
@@ -297,7 +297,7 @@ reward:
 # Easily browse and edit blog source code online.
 post_edit: # 目前仅可选择一个平台在线编辑
   enable: true
-  url: https://github.com/Joker2Yue/Joker2Yue.github.io/edit/main/source/
+  url: https://github.com/Joker2Yue/Joker2Yue-Blog/edit/main/source/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
   github: true
   # yuque: https://www.yuque.com/user-name/repo-name/
@@ -410,18 +410,6 @@ artalk:
   visitor: false
   option:
 
-# Giscus
-# https://giscus.app/
-giscus:
-  repo: Joker2Yue/Joker2Yue.github.io
-  repo_id: R_kgDOKL9DLg
-  category_id: DIC_kwDOKL9DLs4CY75q
-  theme:
-    light: light
-    dark: dark
-  option:
-
-
 # Chat Services 聊天系统
 # --------------------------------------
 
@@ -485,7 +473,7 @@ footer:
       #   shields: https://npm.elemecdn.com/anzhiyu-blog@2.2.0/img/badge/CDN-多吉云-3693F3.svg
       #   message: 本站使用多吉云为静态资源提供CDN加速
       # - link: https://github.com/
-      - link: https://github.com/Joker2Yue/Joker2Yue.github.io
+      - link: https://github.com/Joker2Yue/Joker2Yue-Blog
         shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg
         message: 本站项目由Github托管
       - link: http://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -1090,7 +1078,7 @@ home_top:
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
-    tips: Joker2Yue.github.io
+    tips: Blog.Joker2Yue.Top
     title: 关于本站
     image: /images/banner/banner.jpg
     link: /website/
@@ -1207,7 +1195,7 @@ post_head_ai_description:
   randomNum: 3 # 按钮最大的随机次数，也就是一篇文章最大随机出来几种
   basicWordCount: 1000 # 最低获取字符数, 最小1000, 最大1999
   key: 7d68f96f3824c2340712
-  Referer: https://Joker2Yue.github.io/
+  Referer: https://Blog.Joker2Yue.Top/
 
 # 快捷键配置
 shortcutKey:
