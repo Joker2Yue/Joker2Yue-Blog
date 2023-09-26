@@ -1128,13 +1128,13 @@ diytitle:
 
 # 留言弹幕配置
 comment_barrage_config:
-  enable: false
+  enable: true
   # 同时最多显示弹幕数
   maxBarrage: 10
   # 弹幕显示间隔时间ms
   barrageTime: 4000
   # token，在控制台中获取
-  accessToken: "83268ca8162f4529bd81a68d3646c8fd"
+  accessToken: "e39e5b76272d45f4a6cc8ed6a9aa278b"
   # 博主邮箱md5值
   mailMd5: "0869658A813D5BE50ED82079970F070A"
 

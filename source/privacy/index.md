@@ -1,16 +1,16 @@
 ---
 title: 隐私政策
-date: 2023-08-31 15:03:29
+date: 2023-09-27 02:24:15
 type: privacy
 top_img: false
 comments: false
 aside: false
 ---
 
-本站非常重视用户的隐私和个人信息保护。你在使用网站时，可能会收集和使用你的相关信息。通过《隐私政策》向你说明在你访问 `Joker2Yue.github.io`网站时，如何收集、使用、保存、共享和转让这些信息。
+本站非常重视用户的隐私和个人信息保护。你在使用网站时，可能会收集和使用你的相关信息。通过《隐私政策》向你说明在你访问 `blog.joker2yue.top`网站时，如何收集、使用、保存、共享和转让这些信息。
 
 ## 最后更新时间
-协议最后更新时间为：2023-08-31
+协议最后更新时间为：2023-09-27
 
 ## 一、在访问时如何收集和使用你的个人信息
 
@@ -53,19 +53,110 @@ aside: false
 
 ### 你应该知道在你访问的时候不限于以下信息会被第三方获取并使用：
 
-第三方部分为了抵抗攻击、使用不同节点 cdn 加速等需求会收集不限于以下信息
+第三方部分为了抵抗攻击、使用不同节点 cdn 加速等需求会收集不限于以下信息：
 
-* 网络信息
-  * IP地址
-  * 国家
-  * 省份
-  * 城市
-  * 运营商
-* 设备信息
-  * 操作系统
-  * 浏览器
-
-此页面如果未能获取到信息并不代表无法读取上述信息，以实际情况为准。
+<!-- 在表格中添加 id 以便于通过 JavaScript 获取元素 -->
+<table>
+    <thead>
+        <tr>
+            <th>类型</th>
+            <th>信息</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2">
+                <b>网络信息</b>
+            </td>
+        </tr>
+        <tr>
+            <td>IP地址</td>
+            <td>
+                <div id="userAgentIp"></div>
+            </td>
+        </tr>
+        <tr>
+            <td>州/大陆</td>
+            <td>
+                <div id="userAgentState"></div>
+            </td>
+        </tr>
+        <tr>
+            <td>国家</td>
+            <td>
+                <div id="userAgentCountry"></div>
+            </td>
+        </tr>
+        <tr>
+            <td>省份</td>
+            <td>
+                <div id="userAgentProv"></div>
+            </td>
+        </tr>
+        <tr>
+            <td>城市</td>
+            <td>
+                <div id="userAgentCity"></div>
+            </td>
+        </tr>
+        <tr>
+            <td>区</td>
+            <td>
+                <div id="userAgentDistrict"></div>
+            </td>
+        </tr>
+        <tr>
+            <td>运营商</td>
+            <td>
+                <div id="userAgentISP"></div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <b>设备信息</b>
+            </td>
+        </tr>
+        <tr>
+            <td>设备</td>
+            <td>
+                <div id="userAgentDevice"></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<!-- 在模板文件中添加 JavaScript 代码 -->
+<script>
+    (async function() {
+        async function getIpInfo() {
+            var fetchUrl = "https://api.qjqq.cn/api/Local";
+            try {
+                var response = await fetch(fetchUrl);
+                var json = await response.json();
+                var ip = json.ip;
+                var continent = json.data.continent;
+                var country = json.data.country;
+                var prov = json.data.prov;
+                var city = json.data.city;
+                var district = json.data.district;
+                var isp = json.data.isp;
+                document.getElementById("userAgentIp").innerHTML = ip;
+                document.getElementById("userAgentState").innerHTML = continent;
+                document.getElementById("userAgentCountry").innerHTML = country;
+                document.getElementById("userAgentProv").innerHTML = prov;
+                document.getElementById("userAgentCity").innerHTML = city;
+                document.getElementById("userAgentDistrict").innerHTML = district;
+                document.getElementById("userAgentISP").innerHTML = isp;
+                var uaInfo = navigator.userAgent;
+                document.getElementById("userAgentDevice").innerHTML = uaInfo;
+            } catch (error) {
+                console.error("An error occurred while fetching IP info:", error);
+            }
+        }
+        await getIpInfo();
+    }
+    )();
+</script>
+<div style="color:var(--anzhiyu-gray);font-size:14px">此页面如果未能获取到信息并不代表无法读取上述信息，以实际情况为准。</div>
 
 ## 二、在评论时如何收集和使用你的个人信息
 
@@ -93,7 +184,7 @@ aside: false
 
 本博客中的以下业务会在你的计算机上主动存储数据：
 
-**内置服务**
+**`内置服务`**
 
 * 评论系统
 * 即刻短文
@@ -101,7 +192,7 @@ aside: false
 * 中控台
 * 胶囊音乐
 
-**第三方服务**
+**`第三方服务`**
 
 * 百度统计
 * 51a 统计
