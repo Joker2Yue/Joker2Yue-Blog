@@ -501,9 +501,9 @@ footer:
        - title: 微博
          link: https://m.weibo.cn/u/7799849297
          icon: anzhiyu-icon-weibo
-       - title: Twitter
+       - title: X
          link: https://twitter.com/joker0222yue?s=09
-         icon: icon-tuite
+         icon: fa-brands fa-x-twitter
     right:
        - title: Github
          link: https://github.com/Joker2Yue
@@ -561,8 +561,8 @@ footer:
         text: 主题
       - link: /privacy
         text: 隐私政策
-      # - link: https://beian.miit.gov.cn/
-      #   text: 湘ICP备-xxxxxxx号
+      - link: https://beian.miit.gov.cn/
+        text: 湘ICP备-2023023581号
     subTitle:
       enable: true
       # Typewriter Effect (打字效果)
@@ -989,8 +989,8 @@ note:
   light_bg_offset: 0
 
 icons:
-  ali_iconfont_js: //at.alicdn.com/t/c/font_3320075_b8czq4s7e55.js # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
-  fontawesome: false #是否启用fontawesome6图标
+  ali_iconfont_js: //at.alicdn.com/t/c/font_3320075_10tn9j0ga3lb.js # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
+  fontawesome: true #是否启用fontawesome6图标
   fontawesome_animation_css: #fontawesome_animation 如果有就会加载，示例值：https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@1.0.17/lib/assets/font-awesome-animation.min.css
 
 # other
