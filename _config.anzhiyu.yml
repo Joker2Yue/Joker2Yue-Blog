@@ -1293,7 +1293,7 @@ CDN:
     # pjax: https://lib.baomitu.com/pjax/0.2.8/pjax.min.js
     # blueimp_md5:
     # valine:
-    twikoo: https://cdn.staticfile.org/twikoo/1.6.20/twikoo.all.min.js
+    twikoo: https://lib.baomitu.com/twikoo/latest/twikoo.all.min.js
     # waline_js:
     # waline_css:
     # sharejs: https://lib.baomitu.com/social-share.js/latest/js/social-share.min.js
