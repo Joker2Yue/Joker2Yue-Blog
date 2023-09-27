@@ -2,67 +2,67 @@
   creativity_list:
     - name: Java
       color: "#fff"
-      icon: https://resource.joker2yue.top/blog/images/creativity/java.jpg
+      icon: /images/creativity/java.jpg
     - name: Docker
       color: "#57b6e6"
-      icon: https://resource.joker2yue.top/blog/images/creativity/docker.png
+      icon: /images/creativity/docker.png
     - name: Photoshop
       color: "#4082c3"
-      icon: https://resource.joker2yue.top/blog/images/creativity/photoshop.png
+      icon: /images/creativity/photoshop.png
     - name: Node
       color: "#333"
-      icon: https://resource.joker2yue.top/blog/images/creativity/nodejs.svg
+      icon: /images/creativity/nodejs.svg
     - name: Webpack
       color: "#2e3a41"
-      icon: https://resource.joker2yue.top/blog/images/creativity/webpack.png
+      icon: /images/creativity/webpack.png
     - name: Android
       color: "#fff"
-      icon: https://resource.joker2yue.top/blog/images/creativity/android.svg
+      icon: /images/creativity/android.svg
     - name: Python
       color: "#fff"
-      icon: https://resource.joker2yue.top/blog/images/creativity/python.png
+      icon: /images/creativity/python.png
     - name: Vite
       color: "#937df7"
-      icon: https://resource.joker2yue.top/blog/images/creativity/vite.svg
+      icon: /images/creativity/vite.svg
     - name: Tomcat
       color: "#fefefe"
-      icon: https://resource.joker2yue.top/blog/images/creativity/tomcat.jpg
+      icon: /images/creativity/tomcat.jpg
     - name: Vue
       color: "#b8f0ae"
-      icon: https://resource.joker2yue.top/blog/images/creativity/vue.png
+      icon: /images/creativity/vue.png
     - name: C
       color: "#fefefe"
-      icon: https://resource.joker2yue.top/blog/images/creativity/C.jpg
+      icon: /images/creativity/C.jpg
     - name: CSS3
       color: "#2c51db"
-      icon: https://resource.joker2yue.top/blog/images/creativity/css3.png
+      icon: /images/creativity/css3.png
     - name: JS
       color: "#f7cb4f"
-      icon: https://resource.joker2yue.top/blog/images/creativity/javascript.png
+      icon: /images/creativity/javascript.png
     - name: HTML
       color: "#e9572b"
-      icon: https://resource.joker2yue.top/blog/images/creativity/html5.png
+      icon: /images/creativity/html5.png
     - name: Git
       color: "#df5b40"
-      icon: https://resource.joker2yue.top/blog/images/creativity/git.webp
+      icon: /images/creativity/git.webp
     - name: Apifox
       color: "#e65164"
-      icon: https://resource.joker2yue.top/blog/images/creativity/apifox.png
+      icon: /images/creativity/apifox.png
     - name: Github
       color: "#fff"
-      icon: https://resource.joker2yue.top/blog/images/creativity/github.png
+      icon: /images/creativity/github.png
     - name: C++
       color: "#fff"
-      icon: https://resource.joker2yue.top/blog/images/creativity/C++.png
+      icon: /images/creativity/C++.png
     - name: Idea
       color: "#dde2ef"
-      icon: https://resource.joker2yue.top/blog/images/creativity/idea.svg
+      icon: /images/creativity/idea.svg
     - name: Spring
       color: "#fff"
-      icon: https://resource.joker2yue.top/blog/images/creativity/spring.jpg
+      icon: /images/creativity/spring.jpg
     - name: Redis
       color: "#fff"
-      icon: https://resource.joker2yue.top/blog/images/creativity/redis.svg
+      icon: /images/creativity/redis.svg
     - name: VSCode
       color: "#fff"
-      icon: https://resource.joker2yue.top/blog/images/creativity/vscode.png
+      icon: /images/creativity/vscode.png
