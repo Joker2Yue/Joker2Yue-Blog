@@ -24,7 +24,6 @@ aside: false
                 var district = json.data.district;
                 var isp = json.data.isp;
                 var currentUrl = window.location.href;
-                var currentHostname = window.location.hostname;
                 document.getElementById("userAgentIp").innerHTML = ip;
                 document.getElementById("userAgentState").innerHTML = continent;
                 document.getElementById("userAgentCountry").innerHTML = country;
@@ -34,7 +33,14 @@ aside: false
                 document.getElementById("userAgentISP").innerHTML = isp;
                 document.getElementById("userAgentDevice").innerHTML = uaInfo;
                 document.getElementById("userAgentUrl").innerHTML = currentUrl;
-                document.getElementById("userAgentHostname").innerHTML = currentHostname;
+                var hostnameRegex = /\/\/(.*?)\//;
+                var matches = currentUrl.match(hostnameRegex);
+                if (matches && matches.length > 1) {
+                    var domain = matches[1];
+                    document.getElementById("userAgentUrl").innerHTML = domain;
+                } else {
+                    document.getElementById("userAgentUrl").innerHTML = "无法提取域名";
+                }
             } catch (error) {
                 console.error("An error occurred while fetching IP info:", error);
             }
@@ -44,7 +50,7 @@ aside: false
     )();
 </script>
 
-<p>本站非常重视用户的隐私和个人信息保护。你在使用网站时，可能会收集和使用你的相关信息。通过《隐私政策》向你说明在你访问 <code id="userAgentHostname"></code> 网站时，如何收集、使用、保存、共享和转让这些信息。</p>
+<p>本站非常重视用户的隐私和个人信息保护。你在使用网站时，可能会收集和使用你的相关信息。通过《隐私政策》向你说明在你访问 <code id="userAgentUrl"></code> 网站时，如何收集、使用、保存、共享和转让这些信息。</p>
 
 ## 最后更新时间
 协议最后更新时间为：2023-09-27
