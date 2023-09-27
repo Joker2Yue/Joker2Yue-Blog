@@ -44,11 +44,11 @@ ai:
 
 #### 安装Hexo脚手架
 
-<img src="Hexo建站指南-2/image-20230909100730865.png" alt="image-20230909100730865" style="zoom:50%;" />
+<img src="./Hexo建站指南-2.assets/image-20230909100730865.png" alt="image-20230909100730865" style="zoom:50%;" />
 
 看到最中间那个最显眼的`npm install hexo-cli -g`吗，将它复制到cmd中运行，运行结束为下图所示：
 
-<img src="Hexo建站指南-2/image-20230909101000074.png" alt="image-20230909101000074" style="zoom:33%;" />
+<img src="./Hexo建站指南-2.assets/image-20230909101000074.png" alt="image-20230909101000074" style="zoom:33%;" />
 
 至此Hexo脚手架安装完成
 
@@ -64,15 +64,15 @@ hexo init [你的项目工程文件夹]
 
 即可开始初始化项目
 
-<img src="Hexo建站指南-2/image-20230909101219981.png" alt="image-20230909101219981" style="zoom: 33%;" />
+<img src="./Hexo建站指南-2.assets/image-20230909101219981.png" alt="image-20230909101219981" style="zoom: 33%;" />
 
 初始化完毕将会看到如下信息：
 
-<img src="Hexo建站指南-2/image-20230909101317612.png" alt="image-20230909101317612" style="zoom:33%;" />
+<img src="./Hexo建站指南-2.assets/image-20230909101317612.png" alt="image-20230909101317612" style="zoom:33%;" />
 
 同时，此处将会出现你的项目目录：
 
-<img src="Hexo建站指南-2/image-20230909101428788.png" alt="image-20230909101428788" style="zoom:33%;" />
+<img src="./Hexo建站指南-2.assets/image-20230909101428788.png" alt="image-20230909101428788" style="zoom:33%;" />
 
 
 
@@ -86,15 +86,15 @@ hexo init [你的项目工程文件夹]
 
 使用WebStrom打开你创建的工程，你会看到如下目录：
 
-![image-20230909102133172](Hexo建站指南-2/image-20230909102133172.png)
+![image-20230909102133172](./Hexo建站指南-2.assets/image-20230909102133172.png)
 
 使用`hexo g`编译命令，将会把所有的资源进行打包发布，生成的文件将会存放在`public`文件夹下
 
-![image-20230909102438899](Hexo建站指南-2/image-20230909102438899.png)
+![image-20230909102438899](./Hexo建站指南-2.assets/image-20230909102438899.png)
 
 使用`hexo d`提交命令，将会把所有已经打包好的资源进行提交，生成的文件将会存放在`.deploy_xxx`下，这个xxx是你填写的提交方式
 
-![image-20230909102913456](Hexo建站指南-2/image-20230909102913456.png)
+![image-20230909102913456](./Hexo建站指南-2.assets/image-20230909102913456.png)
 
 ----
 
@@ -127,11 +127,11 @@ hexo init [你的项目工程文件夹]
    git clone -b main https://github.com/anzhiyu-c/hexo-theme-anzhiyu.git themes/anzhiyu
    ~~~
 
-   
+
 
 2. 可以看到`/themes/`下已经生成了`anzhiyu`文件夹
 
-   <img src="Hexo建站指南-2/image-20230909195303318.png" alt="image-20230909195303318" style="zoom:50%;" />
+   <img src="./Hexo建站指南-2.assets/image-20230909195303318.png" alt="image-20230909195303318" style="zoom:50%;" />
 
 3. 安装pug和stylus渲染插件
 
@@ -139,15 +139,15 @@ hexo init [你的项目工程文件夹]
    npm install hexo-renderer-pug hexo-renderer-stylus --save
    ~~~
 
-   
 
-   
+
+
 
 ---
 
 #### 使用主题
 
-1. 在_config.yml中编辑`theme: anzhiyu`，即可切换到Anzhiyu主题
+1. 在`_config.yml`中编辑`theme: anzhiyu`，即可切换到Anzhiyu主题
 
 2. 使用`hexo g`编译生成静态文件
 
@@ -155,8 +155,8 @@ hexo init [你的项目工程文件夹]
 
    你可以通过`hexo s -p [端口号]`来指定运行的端口号
 
-   ![image-20230909195632718](Hexo建站指南-2/image-20230909195632718.png)
+   ![image-20230909195632718](./Hexo建站指南-2.assets/image-20230909195632718.png)
 
 4. 浏览器中访问该地址来查看运行情况
 
-   ![image-20230909200324774](Hexo建站指南-2/image-20230909200324774.png)
+   ![image-20230909200324774](./Hexo建站指南-2.assets/image-20230909200324774.png)

@@ -7,6 +7,28 @@
   home_essay: true
   top_background: /images/essay/top_bg/0.jpg
   essay_list:
+    - content: 备案等了半个多月，真的好久呀
+      date: 2023/09/26
+      image:
+        - /images/essay/2023/09/26/img.jpg
+    - content: 再整点好的
+      date: 2023/09/24
+      image:
+        - /images/essay/2023/09/24/mmexport1695812781245.jpg
+    - content: 南华的双选会，可惜计算机岗位好少
+      date: 2023/09/23
+      image:
+        - /images/essay/2023/09/23/img.jpg
+    - content: 整点好的😍
+      date: 2023/09/15
+      image:
+        - /images/essay/2023/09/15/img.jpg
+        - /images/essay/2023/09/15/1695811499718.jpg
+        - /images/essay/2023/09/15/1695811557052.jpg
+    - content: 哈哈，贪吃小肥狗🐶
+      date: 2023/09/07
+      image:
+        - /images/essay/2023/09/07/1695812541264.jpg
     - content: 2023年版中国标准地图，领土面积逾千万平方公里！
       date: 2023/09/04
       from: 澎湃新闻
