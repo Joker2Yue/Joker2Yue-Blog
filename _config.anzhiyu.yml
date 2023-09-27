@@ -1262,7 +1262,7 @@ CDN:
   # The CDN provider of internal scripts (主题内部 js 的 cdn 配置)
   # option: local/elemecdn/jsdelivr/unpkg/cdnjs/onmicrosoft/cbd/anheyu/custom
   # Dev version can only choose. ( dev版的主题只能设置为 local )
-  internal_provider: anheyu
+  internal_provider: local
 
   # The CDN provider of third party scripts (第三方 js 的 cdn 配置)
   # option: elemecdn/jsdelivr/unpkg/cdnjs/onmicrosoft/cbd/anheyu/custom
@@ -1305,8 +1305,8 @@ CDN:
     # canvas_ribbon:
     # canvas_fluttering_ribbon:
     # canvas_nest:
-    lazyload: https://cdn.cbd.int/vanilla-lazyload@latest/dist/lazyload.iife.min.js
-    instantpage: https://npm.elemecdn.com/instant.page@latest/instantpage.js
+    # lazyload: https://cdn.cbd.int/vanilla-lazyload@latest/dist/lazyload.iife.min.js
+    # instantpage: https://npm.elemecdn.com/instant.page@latest/instantpage.js
     # typed:
     # pangu:
     # fancybox_css: https://jsd.onmicrosoft.cn/npm/@fancyapps/ui/dist/fancybox.min.css
@@ -1321,8 +1321,8 @@ CDN:
     # fontawesome:
     # flickr_justified_gallery_js:
     # flickr_justified_gallery_css:
-    aplayer_css: https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css
-    aplayer_js: https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.js
+    # aplayer_css: https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css
+    # aplayer_js: https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.js
     # meting_js: https://jsd.onmicrosoft.cn/gh/hexo-theme-Acrylic/JS-Acrylic@main/Meting.js
     # meting_api:
     # prismjs_js:
