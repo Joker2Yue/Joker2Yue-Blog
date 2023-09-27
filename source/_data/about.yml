@@ -77,19 +77,19 @@
     comic_list:
       - name: 韩顺平
         href: https://space.bilibili.com/651245581
-        cover: https://i2.hdslb.com/bfs/archive/d5271b381c32b0eb80bf82e8b4045c2713fbb600.png@320w_200h_1c_!web-space-index-myvideo.webp
+        cover: /images/about/comic/hanshunping.png
       - name: 翁恺c语言
         href: https://www.bilibili.com/video/BV1dr4y1n7vA/
-        cover: https://i0.hdslb.com/bfs/archive/f9068917b672cfb7dd5e7772c7adc53b4ab0ba8b.jpg@672w_378h_1c_!web-search-common-cover.webp
+        cover: /images/about/comic/wenkai.png
       - name: 遇见狂神说
         href: https://space.bilibili.com/95256449
-        cover: https://i1.hdslb.com/bfs/archive/41575b1afec5305fa329d1cdf853373955d4e62a.jpg@672w_378h_1c_!web-search-common-cover.webp
+        cover: /images/about/comic/kuangshen.png
       - name: 黑马程序员
         href: https://space.bilibili.com/37974444
-        cover: https://i2.hdslb.com/bfs/archive/e324834c33ca9e9ce64bab15e743c16a19765435.jpg@672w_378h_1c_!web-search-common-cover.webp
+        cover: /images/about/comic/heima.png
       - name: 动力节点
         href: https://space.bilibili.com/76542346
-        cover: https://i2.hdslb.com/bfs/archive/08a7d83bc24eb476d1502924a29dd2d5fb33e553.jpg@440w_276h_1c_!web-space-index-topvideo.webp
+        cover: /images/about/comic/powernode.png
   like:
     like_tips: 关注偏好
     like_title: 数码科技
