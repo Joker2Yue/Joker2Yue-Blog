@@ -1020,7 +1020,7 @@ instantpage: true
 # https://github.com/vinta/pangu.js
 # Insert a space between Chinese character and English character (中英文之间添加空格)
 pangu:
-  enable: true
+  enable: false
   field: post # site/post
 
 # Lazyload (图片懒加载)
@@ -1028,7 +1028,7 @@ pangu:
 lazyload:
   enable: true
   field: site # site/post
-  placeholder:
+  placeholder: /images/loading.gif
   blur: true
   progressive: true
 
@@ -1193,7 +1193,7 @@ greetingBox:
 post_head_ai_description:
   enable: true
   gptName: Joker
-  mode: tianli # 默认模式 可选值: tianli/local
+  mode: local # 默认模式 可选值: tianli/local
   switchBtn: true # 可以配置是否显示切换按钮 以切换tianli/local
   btnLink: https://afdian.net/item/886a79d4db6711eda42a52540025c377
   randomNum: 3 # 按钮最大的随机次数，也就是一篇文章最大随机出来几种
