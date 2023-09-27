@@ -1321,8 +1321,8 @@ CDN:
     # fontawesome:
     # flickr_justified_gallery_js:
     # flickr_justified_gallery_css:
-    # aplayer_css: https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css
-    # aplayer_js: https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.js
+    aplayer_css: https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.0.1/APlayer.min.css
+    aplayer_js: https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.0.1/APlayer.min.js
     # meting_js: https://jsd.onmicrosoft.cn/gh/hexo-theme-Acrylic/JS-Acrylic@main/Meting.js
     # meting_api:
     # prismjs_js:
