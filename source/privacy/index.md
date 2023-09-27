@@ -39,7 +39,7 @@ aside: false
                     var domain = matches[1];
                     document.getElementById("userAgentUrl").innerHTML = domain;
                 } else {
-                    document.getElementById("userAgentUrl").innerHTML = "无法提取域名";
+                    document.getElementById("userAgentUrl").innerHTML = "joker2yue.github.io";
                 }
             } catch (error) {
                 console.error("An error occurred while fetching IP info:", error);
