@@ -74,7 +74,7 @@ social:
 author_status:
   enable: true
   # 可以是任何图片，建议放表情包或者emoji图片，效果都很好，[表情包速查](https://emotion.xiaokang.me/)
-  statusImg: "https://resource.joker2yue.top/blog/images/statusImg/喜笑颜开.png"
+  statusImg: "/images/statusImg/喜笑颜开.png"
   skills:
      - 🤖️ 数码科技爱好者
      - 🔍 分享与热心帮助
@@ -173,11 +173,11 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: https://resource.joker2yue.top/blog/images/favicon.ico
+favicon: /images/favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://resource.joker2yue.top/blog/images/avatar_joker.jpg
+  img: /images/avatar_joker.jpg
   effect: false
 
 # Disable all banner image
@@ -199,21 +199,21 @@ cover:
   position: left
   # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
   default_cover:
-      - https://resource.joker2yue.top/blog/images/coverImg/default/default_cover1.png
-      - https://resource.joker2yue.top/blog/images/coverImg/default/default_cover2.jpg
-      - https://resource.joker2yue.top/blog/images/coverImg/default/default_cover3.jpg
-      - https://resource.joker2yue.top/blog/images/coverImg/default/default_cover4.jpg
+      - /images/coverImg/default/default_cover1.png
+      - /images/coverImg/default/default_cover2.jpg
+      - /images/coverImg/default/default_cover3.jpg
+      - /images/coverImg/default/default_cover4.jpg
 
 # Replace Broken Images (替换无法显示的图片)
 error_img:
-  flink: https://resource.joker2yue.top/blog/images/joker_404.png
-  post_page: https://resource.joker2yue.top/blog/images/404.jpg
+  flink: /images/joker_404.png
+  post_page: /images/404.jpg
 
 # A simple 404 page
 error_404:
   enable: true
   subtitle: "哎呀，页面走丢咯"
-  background: https://resource.joker2yue.top/blog/images/joker_404.png
+  background: /images/joker_404.png
 
 post_meta:
   page: # Home Page
@@ -286,10 +286,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: https://resource.joker2yue.top/blog/images/reward/wechat.png
+    - img: /images/reward/wechat.png
       link:
       text: 微信
-    - img: https://resource.joker2yue.top/blog/images/reward/alipay.png
+    - img: /images/reward/alipay.png
       link:
       text: 支付宝
 
@@ -810,7 +810,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://resource.joker2yue.top/blog/images/avatar_load.jpg
+  avatar: /images/avatar_load.jpg
 
 # aside (侧边栏)
 # --------------------------------------
@@ -996,7 +996,7 @@ pjax:
   exclude:
     - /music/
     - /no-pjax/
-    - https://resource.joker2yue.top/blog/images/
+    - /images/
 
 # Inject the css and script (aplayer/meting)
 aplayerInject:
@@ -1028,7 +1028,7 @@ pangu:
 lazyload:
   enable: true
   field: site # site/post
-  placeholder: https://resource.joker2yue.top/blog/images/loading.gif
+  placeholder: /images/loading.gif
   blur: true
   progressive: true
 
@@ -1040,11 +1040,11 @@ pwa:
   startup_image_enable: true
   manifest: /manifest.json
   theme_color: var(--anzhiyu-main)
-  mask_icon: https://resource.joker2yue.top/blog/images/siteicon/apple-icon-180.png
-  apple_touch_icon: https://resource.joker2yue.top/blog/images/siteicon/apple-icon-180.png
-  bookmark_icon: https://resource.joker2yue.top/blog/images/siteicon/apple-icon-180.png
-  favicon_32_32: https://resource.joker2yue.top/blog/images/siteicon/32.png
-  favicon_16_16: https://resource.joker2yue.top/blog/images/siteicon/16.png
+  mask_icon: /images/siteicon/apple-icon-180.png
+  apple_touch_icon: /images/siteicon/apple-icon-180.png
+  bookmark_icon: /images/siteicon/apple-icon-180.png
+  favicon_32_32: /images/siteicon/32.png
+  favicon_16_16: /images/siteicon/16.png
 
 # Open graph meta tags
 # https://developers.facebook.com/docs/sharing/webmasters/
@@ -1084,7 +1084,7 @@ home_top:
   banner:
     tips: Blog.Joker2Yue.Top
     title: 关于本站
-    image: https://resource.joker2yue.top/blog/images/banner/banner.jpg
+    image: /images/banner/banner.jpg
     link: /website/
 
 # 朋友圈配置
