@@ -7,7 +7,44 @@ comments: false
 aside: false
 ---
 
-本站非常重视用户的隐私和个人信息保护。你在使用网站时，可能会收集和使用你的相关信息。通过《隐私政策》向你说明在你访问 `blog.joker2yue.top`网站时，如何收集、使用、保存、共享和转让这些信息。
+<!-- 在模板文件中添加 JavaScript 代码 -->
+<script>
+    (async function() {
+        async function getIpInfo() {
+            var fetchUrl = "https://api.qjqq.cn/api/Local";
+            try {
+                var uaInfo = navigator.userAgent;
+                var response = await fetch(fetchUrl);
+                var json = await response.json();
+                var ip = json.ip;
+                var continent = json.data.continent;
+                var country = json.data.country;
+                var prov = json.data.prov;
+                var city = json.data.city;
+                var district = json.data.district;
+                var isp = json.data.isp;
+                var currentUrl = window.location.href;
+                var currentHostname = window.location.hostname;
+                document.getElementById("userAgentIp").innerHTML = ip;
+                document.getElementById("userAgentState").innerHTML = continent;
+                document.getElementById("userAgentCountry").innerHTML = country;
+                document.getElementById("userAgentProv").innerHTML = prov;
+                document.getElementById("userAgentCity").innerHTML = city;
+                document.getElementById("userAgentDistrict").innerHTML = district;
+                document.getElementById("userAgentISP").innerHTML = isp;
+                document.getElementById("userAgentDevice").innerHTML = uaInfo;
+                document.getElementById("userAgentUrl").innerHTML = currentUrl;
+                document.getElementById("userAgentHostname").innerHTML = currentHostname;
+            } catch (error) {
+                console.error("An error occurred while fetching IP info:", error);
+            }
+        }
+        await getIpInfo();
+    }
+    )();
+</script>
+
+<p>本站非常重视用户的隐私和个人信息保护。你在使用网站时，可能会收集和使用你的相关信息。通过《隐私政策》向你说明在你访问 <code id="userAgentHostname"></code> 网站时，如何收集、使用、保存、共享和转让这些信息。</p>
 
 ## 最后更新时间
 协议最后更新时间为：2023-09-27
@@ -124,38 +161,6 @@ aside: false
         </tr>
     </tbody>
 </table>
-<!-- 在模板文件中添加 JavaScript 代码 -->
-<script>
-    (async function() {
-        async function getIpInfo() {
-            var fetchUrl = "https://api.qjqq.cn/api/Local";
-            try {
-                var response = await fetch(fetchUrl);
-                var json = await response.json();
-                var ip = json.ip;
-                var continent = json.data.continent;
-                var country = json.data.country;
-                var prov = json.data.prov;
-                var city = json.data.city;
-                var district = json.data.district;
-                var isp = json.data.isp;
-                document.getElementById("userAgentIp").innerHTML = ip;
-                document.getElementById("userAgentState").innerHTML = continent;
-                document.getElementById("userAgentCountry").innerHTML = country;
-                document.getElementById("userAgentProv").innerHTML = prov;
-                document.getElementById("userAgentCity").innerHTML = city;
-                document.getElementById("userAgentDistrict").innerHTML = district;
-                document.getElementById("userAgentISP").innerHTML = isp;
-                var uaInfo = navigator.userAgent;
-                document.getElementById("userAgentDevice").innerHTML = uaInfo;
-            } catch (error) {
-                console.error("An error occurred while fetching IP info:", error);
-            }
-        }
-        await getIpInfo();
-    }
-    )();
-</script>
 <div style="color:var(--anzhiyu-gray);font-size:14px">此页面如果未能获取到信息并不代表无法读取上述信息，以实际情况为准。</div>
 
 ## 二、在评论时如何收集和使用你的个人信息
