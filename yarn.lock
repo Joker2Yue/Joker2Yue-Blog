@@ -2646,9 +2646,10 @@ hexo-server@^3.0.0:
     picocolors "^1.0.0"
     serve-static "^1.14.1"
 
-"hexo-theme-anzhiyu@github:anzhiyu-c/hexo-theme-anzhiyu":
-  version "1.6.6"
-  resolved "git+ssh://git@github.com/anzhiyu-c/hexo-theme-anzhiyu.git#e2ed4fbd40cde1b465d81b350a0e1b706b123cd4"
+hexo-theme-anzhiyu@^1.6.8:
+  version "1.6.8"
+  resolved "https://registry.npmjs.org/hexo-theme-anzhiyu/-/hexo-theme-anzhiyu-1.6.8.tgz"
+  integrity sha512-7BpSTTmz133c0uBXYs14lwA/SMT7r3c1jT8gyRZzdFgCWqItT7LPimA8Wipzq4GvGbw/vhKDWHSBtlEcrieZpw==
   dependencies:
     hexo-renderer-pug "^3.0.0"
     hexo-renderer-stylus "^3.0.0"
