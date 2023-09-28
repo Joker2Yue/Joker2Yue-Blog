@@ -22,15 +22,14 @@ ai:
   - 这篇文章总结了Java和Kotlin中的常见编程概念和语法，包括打印日志、常量与变量、null声明、空判断、字符串拼接、换行、三元表达式、操作符、类型判断和转换、多重条件、更灵活的case语句、for循环、更方便的集合操作、方法定义、带返回值的方法、无结束符号、构造器、Get Set 构造器、原型扩展、以及在Kotlin中需要了解的重要事项。
   - 这篇文章总结了Java和Kotlin在各个编程方面的比较，包括打印日志、常量与变量、null声明、空判断、字符串拼接、换行、三元表达式、操作符、类型判断和转换、多重条件、更灵活的case语句、for循环、更方便的集合操作、遍历、方法定义、带返回值的方法、无结束符号、constructor构造器、Get Set 构造器、原型扩展等内容。
 ---
-
+# 从Java到Kotlin
 
 > 作者：[amitshekhariitbhu](https://github.com/amitshekhariitbhu)
 > 链接：https://github.com/amitshekhariitbhu/from-java-to-kotlin
 > 来源：Github
 > 著作权归原作者所有。商业转载请联系原作者获得授权，非商业转载请注明出处。
 
-![Form Java To kotlin](https://raw.githubusercontent.com/amitshekhariitbhu/from-java-to-kotlin/master/assets/from_java_to_kotlin.png)
-
+<img src="https://raw.githubusercontent.com/amitshekhariitbhu/from-java-to-kotlin/master/assets/from_java_to_kotlin.png" alt="Form Java To kotlin" />
 
 ## 打印日志(Print to Console)
 

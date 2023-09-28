@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="设置主色调的API调用">
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="关于本人">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/从Java到Kotlin.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/从Java到Kotlin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/categories/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/categories/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
       <workItem from="1694496823395" duration="1350000" />
       <workItem from="1695724362423" duration="4267000" />
       <workItem from="1695829727273" duration="9880000" />
-      <workItem from="1695917975072" duration="2548000" />
+      <workItem from="1695917975072" duration="4813000" />
     </task>
     <task id="LOCAL-00001" summary="添加Hexo建站指南">
       <option name="closed" value="true" />
@@ -156,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695906668589</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="关于本人">
+      <option name="closed" value="true" />
+      <created>1695921246729</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1695921246729</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +196,7 @@
     <MESSAGE value="更改twikoo的CDN为https://cdn.jsdelivr.net/npm/twikoo@latest/dist/twikoo.all.min.js" />
     <MESSAGE value="更新分类" />
     <MESSAGE value="设置主色调的API调用" />
-    <option name="LAST_COMMIT_MESSAGE" value="设置主色调的API调用" />
+    <MESSAGE value="关于本人" />
+    <option name="LAST_COMMIT_MESSAGE" value="关于本人" />
   </component>
 </project>
