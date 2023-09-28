@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="更新twikoo">
-      <change beforePath="$PROJECT_DIR$/.idea/joker2yueBlog.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="设置主色调的API调用">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +57,8 @@
       <workItem from="1694495522644" duration="1121000" />
       <workItem from="1694496823395" duration="1350000" />
       <workItem from="1695724362423" duration="4267000" />
+      <workItem from="1695829727273" duration="9880000" />
+      <workItem from="1695917975072" duration="2548000" />
     </task>
     <task id="LOCAL-00001" summary="添加Hexo建站指南">
       <option name="closed" value="true" />
@@ -77,7 +76,87 @@
       <option name="project" value="LOCAL" />
       <updated>1694496661133</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="设置CDN">
+      <option name="closed" value="true" />
+      <created>1695831289971</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695831289971</updated>
+    </task>
+    <task id="LOCAL-00004" summary="将twikoo的cdn修改为https://lib.baomitu.com/twikoo/latest/twikoo.all.min.js">
+      <option name="closed" value="true" />
+      <created>1695831542275</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695831542275</updated>
+    </task>
+    <task id="LOCAL-00005" summary="恢复aplayer系列cdn">
+      <option name="closed" value="true" />
+      <created>1695832542810</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695832542810</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修复aplayer系列cdn">
+      <option name="closed" value="true" />
+      <created>1695832885186</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695832885186</updated>
+    </task>
+    <task id="LOCAL-00007" summary="更改名称C++.png">
+      <option name="closed" value="true" />
+      <created>1695832994791</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695832994791</updated>
+    </task>
+    <task id="LOCAL-00008" summary="更改twikoo的CDN为https://cdn.jsdelivr.net/npm/twikoo@latest/dist/twikoo.all.min.js">
+      <option name="closed" value="true" />
+      <created>1695833265254</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695833265254</updated>
+    </task>
+    <task id="LOCAL-00009" summary="更新分类">
+      <option name="closed" value="true" />
+      <created>1695899853636</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1695899853636</updated>
+    </task>
+    <task id="LOCAL-00010" summary="更新分类">
+      <option name="closed" value="true" />
+      <created>1695900398461</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1695900398461</updated>
+    </task>
+    <task id="LOCAL-00011" summary="更新分类">
+      <option name="closed" value="true" />
+      <created>1695900585325</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1695900585325</updated>
+    </task>
+    <task id="LOCAL-00012" summary="设置主色调的API调用">
+      <option name="closed" value="true" />
+      <created>1695906668589</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1695906668589</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,8 +175,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="添加Hexo建站指南" />
     <MESSAGE value="更新twikoo" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新twikoo" />
+    <MESSAGE value="设置CDN" />
+    <MESSAGE value="将twikoo的cdn修改为https://lib.baomitu.com/twikoo/latest/twikoo.all.min.js" />
+    <MESSAGE value="恢复aplayer系列cdn" />
+    <MESSAGE value="修复aplayer系列cdn" />
+    <MESSAGE value="更改名称C++.png" />
+    <MESSAGE value="更改twikoo的CDN为https://cdn.jsdelivr.net/npm/twikoo@latest/dist/twikoo.all.min.js" />
+    <MESSAGE value="更新分类" />
+    <MESSAGE value="设置主色调的API调用" />
+    <option name="LAST_COMMIT_MESSAGE" value="设置主色调的API调用" />
   </component>
 </project>
