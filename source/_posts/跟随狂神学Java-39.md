@@ -8,7 +8,7 @@ tags:
   - MyabtisPlus
   - 必看
 categories:
-  - [跟随狂神学Java]
+  - [跟随狂神学Java, 必看, 技术, Java]
 cover: /images/coverImg/Mybatis/MybatisPlus.jpg
 keywords:
   - MybatisPlus

@@ -6,7 +6,7 @@ tags:
   - Hexo
   - 前端
 categories:
-  - [经验分享]
+  - [经验分享, Hexo, 前端]
 cover: /images/coverImg/Hexo_Build.png
 keywords:
   - Hexo

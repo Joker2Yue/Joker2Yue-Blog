@@ -8,7 +8,7 @@ tags:
   - 必看
   - Vue
 categories:
-  - [跟随狂神学Java]
+  - [跟随狂神学Java, Java]
 cover: /images/coverImg/Vue/Vue.jpeg
 keywords:
   - VUE

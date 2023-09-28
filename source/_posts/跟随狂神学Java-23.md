@@ -6,7 +6,7 @@ tags:
   - Java
   - JavaSE
 categories:
-  - [跟随狂神学Java]
+  - [跟随狂神学Java, Java]
 cover: /images/coverImg/JavaSE/11.jpg
 keywords:
   - Java

@@ -9,7 +9,7 @@ tags:
   - 分布式
   - 必看
 categories:
-  - [跟随狂神学Java]
+  - [跟随狂神学Java, 必看, 技术, Java]
 cover: /images/coverImg/Spring/SpringCloud2.jpg
 keywords:
   - 背景
