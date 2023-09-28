@@ -8,7 +8,9 @@ tags:
   - 分布式
   - 必看
 categories:
-  - [经验分享, 技术, 必看]
+  - [经验分享]
+  - [技术]
+  - [必看]
 keywords:
   - Git
   - Git安装
