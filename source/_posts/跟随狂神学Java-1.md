@@ -7,7 +7,8 @@ tags:
   - Markdown
   - 必看	
 categories:
-  - [跟随狂神学Java, Java]
+  - [跟随狂神学Java]
+  - [Java]
 cover: /images/coverImg/JavaSE/markdown.jpg
 keywords:
 	- Markdown

@@ -7,7 +7,10 @@ tags:
   - JavaSE
   - 必看
 categories:
-  - [跟随狂神学Java, 必看, 技术, Java]
+  - [跟随狂神学Java]
+  - [必看]
+  - [技术]
+  - [Java]
 cover: /images/coverImg/JavaSE/13.jpg
 keywords:
   - 多线程

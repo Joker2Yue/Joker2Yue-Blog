@@ -6,7 +6,8 @@ tags:
   - Java
   - JavaSE
 categories:
-  - [跟随狂神学Java, Java]
+  - [跟随狂神学Java]
+  - [Java]
 cover: /images/coverImg/JavaSE/08.jpg
 keywords:
   - 面向对象编程

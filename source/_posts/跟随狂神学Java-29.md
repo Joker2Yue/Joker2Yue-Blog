@@ -6,7 +6,8 @@ tags:
   - Java
   - JavaSE
 categories:
-  - [跟随狂神学Java, Java]
+  - [跟随狂神学Java]
+  - [Java]
 cover: /images/coverImg/JavaSE/17.jpg
 keywords:
   - JUC并发编程

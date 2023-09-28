@@ -8,7 +8,8 @@ tags:
   - 数据库
   - Mysql
 categories:
-  - [跟随狂神学Java, Java]
+  - [跟随狂神学Java]
+  - [Java]
 cover: /images/coverImg/JavaSE/17.jpg
 keywords:
   - MySQL
