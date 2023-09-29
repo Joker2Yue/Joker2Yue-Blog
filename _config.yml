@@ -159,8 +159,9 @@ search:
   content: true
   template: ./search.xml
 
-# Markdown渲染器：
-# Markdown-it：https://github.com/hexojs/hexo-renderer-markdown-it , https://blog.csdn.net/qq_42951560/article/details/123596899
+# Markdown渲染器：https://bugwz.com/2019/09/17/hexo-markdown-renderer/#1-3%E3%80%81hexo-renderer-pandoc
+# Markdown-it：      https://github.com/hexojs/hexo-renderer-markdown-it , https://blog.csdn.net/qq_42951560/article/details/123596899
+# Markdown-it-plus:  https://github.com/CHENXCHEN/hexo-renderer-markdown-it-plus
 markdown:
   preset: "default"
   render:
