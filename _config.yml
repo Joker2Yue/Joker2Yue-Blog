@@ -191,8 +191,8 @@ markdown:
     level: 2
     collisionSuffix: 'v'
     permalink: true
-    permalinkClass: "header-anchor"
-    permalinkSide: "left"
-    permalinkSymbol: "¶"
+    permalinkClass: "headerlink"
+    permalinkSide: "right"
+    permalinkSymbol: ""
     case: 0
     separator: "-"
