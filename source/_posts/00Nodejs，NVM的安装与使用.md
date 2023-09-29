@@ -9,7 +9,6 @@ categories:
   - [经验分享]
   - [必看]
 cover: https://resource.joker2yue.top/blog/images/coverImg/00Nodejs，NVM的安装与使用.jpg
-main_color: "#3e4139"
 ai: 
   - 这篇文章详细介绍了在Windows系统上安装和配置Node.js、NVM以及相关工具的方法，同时解决了常见问题和注意事项。帮助用户建立Node.js开发环境。
 ---
