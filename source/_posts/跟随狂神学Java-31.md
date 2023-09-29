@@ -11,7 +11,7 @@ categories:
   - [必看]
   - [技术]
   - [Java]
-cover: /images/coverImg/JavaWeb/01.webp
+cover: https://resource.joker2yue.top/blog/images/coverImg/JavaWeb/01.webp
 keywords:
   - JavaWeb
   - 基本概念

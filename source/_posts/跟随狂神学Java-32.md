@@ -12,7 +12,7 @@ categories:
   - [必看]
   - [技术]
   - [Java]
-cover: /images/coverImg/Mybatis/Mybatis.jpg
+cover: https://resource.joker2yue.top/blog/images/coverImg/Mybatis/Mybatis.jpg
 keywords:
   - Mybatis
   - 持久化

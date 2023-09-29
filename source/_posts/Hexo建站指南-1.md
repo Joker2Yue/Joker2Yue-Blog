@@ -9,7 +9,7 @@ categories:
   - [经验分享]
   - [Hexo]
   - [前端]
-cover: /images/coverImg/Hexo_Build.png
+cover: https://resource.joker2yue.top/blog/images/coverImg/Hexo_Build.png
 keywords:
   - Hexo
 ai: 

@@ -11,7 +11,7 @@ categories:
   - [必看]
   - [技术]
   - [Java]
-cover: /images/coverImg/Linux/nginx.webp
+cover: https://resource.joker2yue.top/blog/images/coverImg/Linux/nginx.webp
 keywords:
   - 运维
   - Nginx

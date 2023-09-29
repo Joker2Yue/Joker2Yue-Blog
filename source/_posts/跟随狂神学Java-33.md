@@ -14,7 +14,7 @@ categories:
   - [必看]
   - [技术]
   - [Java]
-cover: /images/coverImg/Spring/SpringFramework.png
+cover: https://resource.joker2yue.top/blog/images/coverImg/Spring/SpringFramework.png
 keywords:
   - Spring
   - SpringFramework

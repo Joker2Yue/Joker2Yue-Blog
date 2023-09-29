@@ -11,7 +11,7 @@ categories:
   - [必看]
   - [技术]
   - [Java]
-cover: /images/coverImg/Linux/Linux.webp
+cover: https://resource.joker2yue.top/blog/images/coverImg/Linux/Linux.webp
 keywords:
   - 运维
   - Linux

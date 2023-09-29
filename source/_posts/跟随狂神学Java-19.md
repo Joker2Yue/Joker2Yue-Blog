@@ -8,7 +8,7 @@ tags:
 categories:
   - [跟随狂神学Java]
   - [Java]
-cover: /images/coverImg/JavaSE/10.jpg
+cover: https://resource.joker2yue.top/blog/images/coverImg/JavaSE/10.jpg
 keywords:
   - Date类
   - 时间精确性

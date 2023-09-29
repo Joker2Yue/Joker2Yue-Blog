@@ -13,7 +13,7 @@ categories:
   - [必看]
   - [技术]
   - [Java]
-cover: /images/coverImg/Vue/git.png
+cover: https://resource.joker2yue.top/blog/images/coverImg/Vue/git.png
 keywords:
   - 版本控制
   - Git

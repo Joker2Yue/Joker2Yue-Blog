@@ -9,7 +9,7 @@ tags:
 categories:
   - [转载文章]
   - [必看]
-cover: /images/coverImg/Java-vs-Kotlin.jpg
+cover: https://resource.joker2yue.top/blog/images/coverImg/Java-vs-Kotlin.jpg
 keywords:
   - Java
   - Kotlin

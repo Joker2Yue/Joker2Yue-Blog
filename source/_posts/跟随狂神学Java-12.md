@@ -8,7 +8,7 @@ tags:
 categories:
   - [跟随狂神学Java]
   - [Java]
-cover: /images/coverImg/JavaSE/09.jpg
+cover: https://resource.joker2yue.top/blog/images/coverImg/JavaSE/09.jpg
 keywords:
   - 异常
   - Exception

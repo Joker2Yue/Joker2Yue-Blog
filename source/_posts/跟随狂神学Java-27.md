@@ -11,7 +11,7 @@ categories:
   - [必看]
   - [技术]
   - [Java]
-cover: /images/coverImg/JavaSE/14.jpg
+cover: https://resource.joker2yue.top/blog/images/coverImg/JavaSE/14.jpg
 keywords:
   - 网络编程
   - 计算机网络

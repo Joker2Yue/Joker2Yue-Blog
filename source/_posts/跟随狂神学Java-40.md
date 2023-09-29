@@ -13,7 +13,7 @@ categories:
   - [必看]
   - [技术]
   - [Java]
-cover: /images/coverImg/Spring/SpringCloud.jpg
+cover: https://resource.joker2yue.top/blog/images/coverImg/Spring/SpringCloud.jpg
 keywords:
   - 背景
   - 传统架构

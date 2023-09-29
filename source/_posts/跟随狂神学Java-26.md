@@ -11,7 +11,7 @@ categories:
   - [必看]
   - [技术]
   - [Java]
-cover: /images/coverImg/JavaSE/13.jpg
+cover: https://resource.joker2yue.top/blog/images/coverImg/JavaSE/13.jpg
 keywords:
   - 多线程
   - Thread类

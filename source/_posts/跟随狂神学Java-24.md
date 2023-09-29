@@ -11,7 +11,7 @@ categories:
   - [必看]
   - [技术]
   - [Java]
-cover: /images/coverImg/JavaSE/11.jpg
+cover: https://resource.joker2yue.top/blog/images/coverImg/JavaSE/11.jpg
 keywords:
   - HashSet
   - TreeSet
