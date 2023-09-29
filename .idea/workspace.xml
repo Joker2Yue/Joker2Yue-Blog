@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="更新主色调">
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804202657563.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804202718497.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804202816645.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804202919255.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804203456843.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804204114379.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804204450465.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804204538622.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804210058632.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804211028841.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804211151841.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804211713565.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804212001149.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804212146745.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804212241959.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804212438230.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804212753355.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804213245976.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230804213253292.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230805173510943.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230805173535795.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230806191320099.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/00Git的安装与使用.assets/image-20230812162330159.png" afterDir="false" />
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="修复：当图片格式语法为&#10;![]()&#10;时导致的排版错乱问题">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
@@ -95,7 +72,7 @@
       <workItem from="1695829727273" duration="9880000" />
       <workItem from="1695917975072" duration="7113000" />
       <workItem from="1695954396874" duration="3084000" />
-      <workItem from="1695966813461" duration="14900000" />
+      <workItem from="1695966813461" duration="17481000" />
     </task>
     <task id="LOCAL-00001" summary="添加Hexo建站指南">
       <option name="closed" value="true" />
@@ -241,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695978667443</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="修复：当图片格式语法为&#10;![]()&#10;时导致的排版错乱问题">
+      <option name="closed" value="true" />
+      <created>1695985062495</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1695985062495</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,6 +261,7 @@
     <MESSAGE value="音乐馆更新" />
     <MESSAGE value="更新图片路径" />
     <MESSAGE value="更新主色调" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新主色调" />
+    <MESSAGE value="修复：当图片格式语法为&#10;![]()&#10;时导致的排版错乱问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="修复：当图片格式语法为&#10;![]()&#10;时导致的排版错乱问题" />
   </component>
 </project>

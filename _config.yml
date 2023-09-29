@@ -166,7 +166,7 @@ markdown:
   preset: "default"
   render:
     html: true
-    xhtmlOut: false
+    xhtmlOut: true
     langPrefix: "language-"
     breaks: true
     linkify: true
@@ -187,18 +187,10 @@ markdown:
     - markdown-it-checkbox
     - markdown-it-imsize
     - markdown-it-expandable
-    - name: markdown-it-container
-      options: success
-    - name: markdown-it-container
-      options: tips
-    - name: markdown-it-container
-      options: warning
-    - name: markdown-it-container
-      options: danger
   anchors:
     level: 2
     collisionSuffix: 'v'
-    permalink: false
+    permalink: true
     permalinkClass: "header-anchor"
     permalinkSide: "left"
     permalinkSymbol: "¶"
