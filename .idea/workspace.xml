@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="修改侧边栏中最新发布的条数" />
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="修改permalink">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +68,7 @@
       <workItem from="1695829727273" duration="9880000" />
       <workItem from="1695917975072" duration="7113000" />
       <workItem from="1695954396874" duration="3084000" />
-      <workItem from="1695966813461" duration="18511000" />
+      <workItem from="1695966813461" duration="19152000" />
     </task>
     <task id="LOCAL-00001" summary="添加Hexo建站指南">
       <option name="closed" value="true" />
@@ -236,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695988467915</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="修改permalink">
+      <option name="closed" value="true" />
+      <created>1695988804389</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1695988804389</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,6 +284,7 @@
     <MESSAGE value="修复：当图片格式语法为&#10;![]()&#10;时导致的排版错乱问题" />
     <MESSAGE value="移除无用语句及插件" />
     <MESSAGE value="修改侧边栏中最新发布的条数" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改侧边栏中最新发布的条数" />
+    <MESSAGE value="修改permalink" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改permalink" />
   </component>
 </project>

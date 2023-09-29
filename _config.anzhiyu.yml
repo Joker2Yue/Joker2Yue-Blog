@@ -187,7 +187,7 @@ disable_top_img: false
 index_img: false # "background: url() top / cover no-repeat"
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: false
+default_top_img: https://resource.joker2yue.top/blog/images/defaultImg.jpg
 
 cover:
   # display the cover or not (是否显示文章封面)
