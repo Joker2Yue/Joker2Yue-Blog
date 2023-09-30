@@ -306,9 +306,10 @@ post_edit: # 目前仅可选择一个平台在线编辑
   yuque: false
 
 # Related Articles
+# 喜欢这篇文章的人也看了
 related_post:
   enable: true
-  limit: 8 # Number of posts displayed
+  limit: 3 # Number of posts displayed
   date_type: created # or created or updated 文章日期显示创建日或者更新日
 
 # figcaption (文章中，图片底部用于描述图片的文字)
@@ -324,7 +325,7 @@ post_pagination: 2
 # Displays outdated notice for a post (文章过期提醒)
 noticeOutdate:
   enable: true
-  style: flat # style: simple/flat
+  style: simple # style: simple/flat
   limit_day: 365 # When will it be shown
   position: top # position: top/bottom
   message_prev: It has been
@@ -474,7 +475,7 @@ footer:
         message: 本站使用多吉云为静态资源提供CDN加速
       - link: https://vercel.com/
         shields: https://jsd.onmicrosoft.cn/npm/blogassert/logos/Hosted-Vercel-brightgreen.svg
-        message: 本站由Vercel部署
+        message: 本站项目由Vercel部署
       - link: https://github.com/Joker2Yue/Joker2Yue-Blog
         shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg
         message: 本站项目由Github托管
@@ -572,19 +573,19 @@ footer:
       source: 1
       # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
       sub:
-         - 生活明朗&#44; 万物可爱&#44; 人间值得&#44; 未来可期.
          - Joker Never Plays Jokes.
+         - 生活明朗&#44; 万物可爱&#44; 人间值得&#44; 未来可期.
 
 # Analysis
 # --------------------------------------
 
 # Baidu Analytics
 # https://tongji.baidu.com/web/welcome/login
-baidu_analytics:
+baidu_analytics: 4ba70286307cdb2f048fa87f409fda03
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
-google_analytics:
+google_analytics: G-Y307Y01DWS
 
 # CNZZ Analytics
 # https://www.umeng.com/
