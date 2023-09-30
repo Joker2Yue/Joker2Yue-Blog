@@ -5,10 +5,10 @@ menu:
      分类: /categories/ || anzhiyu-icon-shapes
 
    闲谈:
-   #  友人帐: /link/ || anzhiyu-icon-link
    #  朋友圈: /fcircle/ || anzhiyu-icon-artstation
      闲言碎语: /essay/ || anzhiyu-icon-lightbulb
      随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
+     友情链接: /link/ || anzhiyu-icon-link
 
    互动:
      留言板: /comments/ || anzhiyu-icon-envelope
