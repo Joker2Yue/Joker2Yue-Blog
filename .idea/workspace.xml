@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="更新部分图片链接">
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="更新部分图片链接，加入底栏，打开[开往]">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_data/essay.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/essay.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_data/link.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/link.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-31.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-31.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +73,7 @@
       <workItem from="1695917975072" duration="7113000" />
       <workItem from="1695954396874" duration="3084000" />
       <workItem from="1695966813461" duration="28220000" />
-      <workItem from="1696048792439" duration="13175000" />
+      <workItem from="1696048792439" duration="14078000" />
     </task>
     <task id="LOCAL-00001" summary="添加Hexo建站指南">
       <option name="closed" value="true" />
@@ -302,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696066265840</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="更新部分图片链接，加入底栏，打开[开往]">
+      <option name="closed" value="true" />
+      <created>1696068571387</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1696068571387</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,6 +352,7 @@
     <MESSAGE value="友链功能完善" />
     <MESSAGE value="更新主页的nav栏" />
     <MESSAGE value="更新部分图片链接" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新部分图片链接" />
+    <MESSAGE value="更新部分图片链接，加入底栏，打开[开往]" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新部分图片链接，加入底栏，打开[开往]" />
   </component>
 </project>
