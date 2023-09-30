@@ -4,19 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="修改default_top_img">
-      <change afterPath="$PROJECT_DIR$/source/_data/link.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/link/siteshot/blog.joekr2yue.top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/link/siteshot/lazychild.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/link/siteshot/mycpen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/js/random-friends-post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/link/index.md" afterDir="false" />
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="增加友链功能">
+      <change afterPath="$PROJECT_DIR$/source/images/banner/starsky.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/link/avatar/dogecloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/link/avatar/vercle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/link/siteshot/blog.joekr2yue.top.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/link/siteshot/dogecloud.com.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/link/siteshot/dogecloud.com.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/link/siteshot/lazychild.fun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/link/siteshot/vercel.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_data/link.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/link.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/link/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/link/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,26 +43,28 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Program/WebStorm/joker2yueBlog/source/_posts&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/Program/WebStorm/joker2yueBlog",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Program\WebStorm\joker2yueBlog" />
+      <recent name="E:\Program\WebStorm\joker2yueBlog\source\images\banner" />
       <recent name="E:\Program\WebStorm\joker2yueBlog\source\_posts" />
     </key>
   </component>
@@ -81,7 +83,7 @@
       <workItem from="1695917975072" duration="7113000" />
       <workItem from="1695954396874" duration="3084000" />
       <workItem from="1695966813461" duration="28220000" />
-      <workItem from="1696048792439" duration="3559000" />
+      <workItem from="1696048792439" duration="9549000" />
     </task>
     <task id="LOCAL-00001" summary="添加Hexo建站指南">
       <option name="closed" value="true" />
@@ -275,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695989441688</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="增加友链功能">
+      <option name="closed" value="true" />
+      <created>1696057084276</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1696057084276</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,6 +326,7 @@
     <MESSAGE value="修改侧边栏中最新发布的条数" />
     <MESSAGE value="修改permalink" />
     <MESSAGE value="修改default_top_img" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改default_top_img" />
+    <MESSAGE value="增加友链功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加友链功能" />
   </component>
 </project>

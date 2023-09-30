@@ -1,7 +1,9 @@
 ---
-title: link
+title: 友情链接
 date: 2023-09-28 22:19:45
 type: "link"
+aside: false
+top_img: false
 ---
 # 我的友链
 {% tabs flink %}
@@ -13,7 +15,7 @@ type: "link"
   link: https://blog.joker2yue.top/
   avatar: https://resource.joker2yue.top/blog/images/avatar_joker.jpg
   descr: Joker Never Plays Jokes.
-  siteshot: https://resource.joker2yue.top/blog/images/link/siteshot/blog.joekr2yue.top.png
+  siteshot: https://resource.joker2yue.top/blog/images/link/siteshot/blog.joekr2yue.top.jpg
 ```
 
 <!-- endtab -->
@@ -23,7 +25,7 @@ type: "link"
 ```json
 {
   "title": "Joker2Yue",
-  "screenshot": "https://resource.joker2yue.top/blog/images/link/siteshot/blog.joekr2yue.top.png",
+  "screenshot": "https://resource.joker2yue.top/blog/images/link/siteshot/blog.joekr2yue.top.jpg",
   "url": "https://blog.joker2yue.top/",
   "avatar": "https://resource.joker2yue.top/blog/images/avatar_joker.jpg",
   "description": "Joker Never Plays Jokes.",
@@ -129,5 +131,6 @@ a(href='https://blog.joker2yue.top/' rel="external nofollow") Joke2Yue-Joker2Yue
     }
 </script>
 <style>.tk-comments>.tk-submit{opacity:0;height:0;transition:opacity .5s,height .5s;overflow:hidden}</style>
+<style>.title-h2-a-right{opacity:0;height:0;transition:opacity .5s,height .5s;overflow:hidden}</style>
 
 {% endfolding %}
