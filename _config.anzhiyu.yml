@@ -17,14 +17,14 @@ menu:
 
    关于:
      关于本人: /about/ || anzhiyu-icon-paper-plane
-     本站建设: /website/ || anzhiyu-icon-train
+     本站建设: /website/ || anzhiyu-icon-cube
      闲言碎语: /essay/ || anzhiyu-icon-lightbulb
      随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
 
 # nav相关配置
 nav:
   enable: false
-  travelling: false
+  travelling: true
   clock: true
   menu:
     - title: 网页
@@ -505,41 +505,41 @@ footer:
          link: https://m.douyin.com/share/user/MS4wLjABAAAAO0Ao94XycJ3Jq_IVPLElwAjdQOonWW53heh1785VFYo
          icon: anzhiyu-icon-tiktok
   list:
-    enable: false
-    randomFriends: 3
+    enable: true
+    randomFriends: 2
     project:
-      # - title: 服务
-      #   links:
-      #     - title: 51la统计
-      #       link: https://v6.51.la/
-      #     - title: 十年之约
-      #       link: https://www.foreverblog.cn/
-      #     - title: 开往
-      #       link: https://github.com/travellings-link/travellings
-      # - title: 主题
-      #   links:
-      #     - title: 文档
-      #       link: /docs/
-      #     - title: 源码
-      #       link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
-      #     - title: 更新日志
-      #       link: /update/
-      # - title: 导航
-      #   links:
-      #     - title: 即刻短文
-      #       link: /essay/
-      #     - title: 友链文章
-      #       link: /fcircle/
-      #     - title: 留言板
-      #       link: /comments/
-      # - title: 协议
-      #   links:
-      #     - title: 隐私协议
-      #       link: /privacy/
-      #     - title: Cookies
-      #       link: /cookies/
-      #     - title: 版权协议
-      #       link: /copyright/
+       - title: 服务
+         links:
+           - title: 51la统计
+             link: https://v6.51.la/
+           - title: 十年之约
+             link: https://www.foreverblog.cn/
+           - title: 开往
+             link: https://github.com/travellings-link/travellings
+       - title: 主题
+         links:
+           - title: 文档
+             link: https://docs.anheyu.com/
+           - title: 源码
+             link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
+           - title: 本站建设
+             link: /website/
+       - title: 导航
+         links:
+           - title: 即刻短文
+             link: /essay/
+           - title: 友链文章
+             link: /fcircle/
+           - title: 留言板
+             link: /comments/
+       - title: 协议
+         links:
+           - title: 隐私协议
+             link: /privacy/
+           - title: Cookies
+             link: /cookies/
+           - title: 版权协议
+             link: /copyright/
   footerBar:
     enable: true
     authorLink: https://github.com/Joker2Yue
@@ -573,6 +573,7 @@ footer:
       # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
       sub:
          - 生活明朗&#44; 万物可爱&#44; 人间值得&#44; 未来可期.
+         - Joker Never Plays Jokes.
 
 # Analysis
 # --------------------------------------

@@ -5,35 +5,35 @@
   buttonLink: /about/
   limit: 30
   home_essay: true
-  top_background: /images/essay/top_bg/0.jpg
+  top_background: https://resource.joker2yue.top/blog/images/essay/top_bg/0.jpg
   essay_list:
     - content: 备案等了半个多月，真的好久呀
       date: 2023/09/26
       image:
-        - /images/essay/2023/09/26/img.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2023/09/26/img.jpg
     - content: 再整点好的
       date: 2023/09/24
       image:
-        - /images/essay/2023/09/24/mmexport1695812781245.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2023/09/24/mmexport1695812781245.jpg
     - content: 南华的双选会，可惜计算机岗位好少
       date: 2023/09/23
       image:
-        - /images/essay/2023/09/23/img.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2023/09/23/img.jpg
     - content: 整点好的😍
       date: 2023/09/15
       image:
-        - /images/essay/2023/09/15/img.jpg
-        - /images/essay/2023/09/15/1695811499718.jpg
-        - /images/essay/2023/09/15/1695811557052.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2023/09/15/img.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2023/09/15/1695811499718.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2023/09/15/1695811557052.jpg
     - content: 哈哈，贪吃小肥狗🐶
       date: 2023/09/07
       image:
-        - /images/essay/2023/09/07/1695812541264.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2023/09/07/1695812541264.jpg
     - content: 2023年版中国标准地图，领土面积逾千万平方公里！
       date: 2023/09/04
       from: 澎湃新闻
       image:
-        - /images/essay/2023/09/04/china.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2023/09/04/china.jpg
       link: https://www.thepaper.cn/newsDetail_forward_24438092
     - content: （化身互联网乞丐）（敲碗）有没有好心人能无缘无故给我两块钱？🥣（祈求）
       date: 2023/09/01
@@ -42,12 +42,12 @@
     - content: 搞了半天一直403，到最后才发现是Referer没配置好，浪费我3个小时，心态都炸了啊啊啊啊啊啊啊啊😣
       date: 2023/08/31
       image:
-        - /images/essay/2023/08/31/Screenshot_2023-08-31-18-19-03-43_9d26c6446fd7bb8.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2023/08/31/Screenshot_2023-08-31-18-19-03-43_9d26c6446fd7bb8.jpg
     - content: 最近李跳跳事件冲上热搜，我才想起来我已经很久没有使用它了。当广告入侵我们的生活久了，你会不会也觉得它们的存在是理所当然？
       date: 2023/08/29
       from: 九歌
       image:
-        - /images/essay/2023/08/28/Screenshot_2023-08-28-14-48-45-40_fb3a64f31b0fbe0.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2023/08/28/Screenshot_2023-08-28-14-48-45-40_fb3a64f31b0fbe0.jpg
       link: https://36kr.com/p/2407121251394308
     - content: 华为Mate60Pro上架啦，遥遥领先，闪击OPPO🤣，厉害了我的国！✊✊✊
       date: 2023/08/29
@@ -56,8 +56,8 @@
       date: 2023/08/29
       from: 九歌
       image:
-        - /images/essay/2023/08/29/img.png
-        - /images/essay/2023/08/29/img_1.png
+        - https://resource.joker2yue.top/blog/images/essay/2023/08/29/img.png
+        - https://resource.joker2yue.top/blog/images/essay/2023/08/29/img_1.png
     - content: 想用gitalk或者giscus作为评论系统的，Butterfly主题支持，但是AnZhiYu主题将其移除了，想给它加上，但是弄了半天都没弄好就放弃了
       date: 2023/08/28
     - content: 关于页也做好了, nice！下一步：评论区系统😸
@@ -75,41 +75,41 @@
     - content: 修狗，修狗🐕
       date: 2023/08/15
       image:
-        - /images/essay/2023/08/15/1693555870808.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2023/08/15/1693555870808.jpg
     - content: 收工啦！今天虽然什么都没做，但还是辛苦自己啦~🤤
       date: 2023/07/30
       image:
-        - /images/essay/2023/07/30/Cache_35f84f7c2b61d810..jpg
+        - https://resource.joker2yue.top/blog/images/essay/2023/07/30/Cache_35f84f7c2b61d810..jpg
     - content: 想发疯，看到狗都想来两口🙄
       date: 2023/07/23
     - content: 有人一起MC嘛？😁
       date: 2023/07/15
       image:
-        - /images/essay/2023/07/15/2023-07-15_17.23.23.png
+        - https://resource.joker2yue.top/blog/images/essay/2023/07/15/2023-07-15_17.23.23.png
     - content: 去找女朋友玩啦😊本人不会拍照555
       date: 2023/07/14
       form: 九歌
       image:
-        - /images/essay/2023/07/14/1693560921417.jpg
-        - /images/essay/2023/07/14/1693560951500.jpg
-        - /images/essay/2023/07/14/1693560978155.jpg
-        - /images/essay/2023/07/14/1693561012175.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2023/07/14/1693560921417.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2023/07/14/1693560951500.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2023/07/14/1693560978155.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2023/07/14/1693561012175.jpg
       address: 长沙
     - content: 乐乐送的粽子，嘿嘿🥰
       date: 2023/06/28
       image:
-        - /images/essay/2023/06/28/1693560594004.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2023/06/28/1693560594004.jpg
     - content: 《消失的她》🙊🙊
       date: 2023/06/25
       image:
-        - /images/essay/2023/06/25/1693560675434.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2023/06/25/1693560675434.jpg
     - content: 好耶，马上就可以放假啦！好想家里好吃的😋！才不是想撸小狗了呢
       date: 2023/06/17
     - content: LineageOS, 启动！✌️
       date: 2023/06/10
       from: 九歌
       image:
-        - /images/essay/2023/06/10/1eda4efae9d78d4a4fc6a94d4123a73e_720.png
+        - https://resource.joker2yue.top/blog/images/essay/2023/06/10/1eda4efae9d78d4a4fc6a94d4123a73e_720.png
     - content: 阿柒真的帅😭
       date: 2023/04/02
       link: https://www.bilibili.com/video/BV1Tx4y1P7ea/
@@ -124,8 +124,8 @@
     - content: 遇见彩虹🌈吃定彩虹
       date: 2022/08/14 21:05:44
       image:
-        - /images/essay/2022/08/14/IMG_20220814_230544.jpg
-        - /images/essay/2022/08/14/1693550185272.jpg
-        - /images/essay/2022/08/14/1693550191313.jpg
-        - /images/essay/2022/08/14/1693550200435.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2022/08/14/IMG_20220814_230544.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2022/08/14/1693550185272.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2022/08/14/1693550191313.jpg
+        - https://resource.joker2yue.top/blog/images/essay/2022/08/14/1693550200435.jpg
       address: 长沙
