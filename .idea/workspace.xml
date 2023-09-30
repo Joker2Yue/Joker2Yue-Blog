@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="友链功能完善">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/images/link/siteshot/blog.joekr2yue.top.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/images/link/siteshot/lazychild.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/images/link/siteshot/mycpen.png" beforeDir="false" />
-    </list>
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="更新主页的nav栏" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +70,7 @@
       <workItem from="1695917975072" duration="7113000" />
       <workItem from="1695954396874" duration="3084000" />
       <workItem from="1695966813461" duration="28220000" />
-      <workItem from="1696048792439" duration="10548000" />
+      <workItem from="1696048792439" duration="11231000" />
     </task>
     <task id="LOCAL-00001" summary="添加Hexo建站指南">
       <option name="closed" value="true" />
@@ -286,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696063913573</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="更新主页的nav栏">
+      <option name="closed" value="true" />
+      <created>1696064617774</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1696064617774</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,6 +331,7 @@
     <MESSAGE value="修改default_top_img" />
     <MESSAGE value="增加友链功能" />
     <MESSAGE value="友链功能完善" />
-    <option name="LAST_COMMIT_MESSAGE" value="友链功能完善" />
+    <MESSAGE value="更新主页的nav栏" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新主页的nav栏" />
   </component>
 </project>

@@ -37,14 +37,14 @@ top_img: false
 
 <!-- tab 📖TABLE -->
 
-| 名称       | 数值                                                         |
-| ---------- | ------------------------------------------------------------ |
-| 站点名称   | Joker2Yue的个人博客                                          |
-| 站点截图   | https://resource.joker2yue.top/blog/images/link/siteshot/blog.joekr2yue.top.png |
-| 站点链接   | https://blog.joker2yue.top/                                  |
-| 站长头像   | https://resource.joker2yue.top/blog/images/avatar_joker.jpg  |
-| 站点描述   | Joker Never Plays Jokes.                                     |
-| 站点关键词 | Joker2Yue, 个人博客， 技术，生活                             |
+| 名称       | 数值                                                                              |
+| ---------- |---------------------------------------------------------------------------------|
+| 站点名称   | Joker2Yue的个人博客                                                                  |
+| 站点截图   | https://resource.joker2yue.top/blog/images/link/siteshot/blog.joker2yue.top.jpg |
+| 站点链接   | https://blog.joker2yue.top/                                                     |
+| 站长头像   | https://resource.joker2yue.top/blog/images/avatar_joker.jpg                     |
+| 站点描述   | Joker Never Plays Jokes.                                                        |
+| 站点关键词 | Joker2Yue, 个人博客， 技术，生活                                                          |
 
 <!-- endtab -->
 
