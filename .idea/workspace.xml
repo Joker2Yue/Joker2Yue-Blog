@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="增加友链功能">
-      <change afterPath="$PROJECT_DIR$/source/images/banner/starsky.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/link/avatar/dogecloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/link/avatar/vercle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/link/siteshot/blog.joekr2yue.top.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/link/siteshot/dogecloud.com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/link/siteshot/dogecloud.com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/link/siteshot/lazychild.fun.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/link/siteshot/vercel.png" afterDir="false" />
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="友链功能完善">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_data/link.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/link.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/link/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/link/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/images/link/siteshot/blog.joekr2yue.top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/images/link/siteshot/lazychild.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/images/link/siteshot/mycpen.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +76,7 @@
       <workItem from="1695917975072" duration="7113000" />
       <workItem from="1695954396874" duration="3084000" />
       <workItem from="1695966813461" duration="28220000" />
-      <workItem from="1696048792439" duration="9549000" />
+      <workItem from="1696048792439" duration="10548000" />
     </task>
     <task id="LOCAL-00001" summary="添加Hexo建站指南">
       <option name="closed" value="true" />
@@ -285,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696057084276</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="友链功能完善">
+      <option name="closed" value="true" />
+      <created>1696063913573</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1696063913573</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,6 +328,7 @@
     <MESSAGE value="修改permalink" />
     <MESSAGE value="修改default_top_img" />
     <MESSAGE value="增加友链功能" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加友链功能" />
+    <MESSAGE value="友链功能完善" />
+    <option name="LAST_COMMIT_MESSAGE" value="友链功能完善" />
   </component>
 </project>

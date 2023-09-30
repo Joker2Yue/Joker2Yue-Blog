@@ -4,14 +4,12 @@ menu:
      标签: /tags/ || anzhiyu-icon-tags
      分类: /categories/ || anzhiyu-icon-shapes
 
-   闲谈:
-   #  朋友圈: /fcircle/ || anzhiyu-icon-artstation
-     闲言碎语: /essay/ || anzhiyu-icon-lightbulb
-     随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
-     友情链接: /link/ || anzhiyu-icon-link
-
-   互动:
+   社交:
+     朋友圈: /fcircle/ || anzhiyu-icon-artstation
+     友人账: /link/ || anzhiyu-icon-link
      留言板: /comments/ || anzhiyu-icon-envelope
+
+   我的:
      音乐馆: /music/?id=648886106&server=netease || anzhiyu-icon-music
    #  追番页: /bangumis/ || anzhiyu-icon-bilibili
    #  相册集: /album/ || anzhiyu-icon-images
@@ -19,7 +17,9 @@ menu:
 
    关于:
      关于本人: /about/ || anzhiyu-icon-paper-plane
-     关于本站: /website/ || anzhiyu-icon-link
+     本站建设: /website/ || anzhiyu-icon-train
+     闲言碎语: /essay/ || anzhiyu-icon-lightbulb
+     随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
 
 # nav相关配置
 nav:
