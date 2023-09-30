@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="更新部分图片链接，加入底栏，打开[开往]">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
-    </list>
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="十年之约" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +70,7 @@
       <workItem from="1695917975072" duration="7113000" />
       <workItem from="1695954396874" duration="3084000" />
       <workItem from="1695966813461" duration="28220000" />
-      <workItem from="1696048792439" duration="14078000" />
+      <workItem from="1696048792439" duration="14384000" />
     </task>
     <task id="LOCAL-00001" summary="添加Hexo建站指南">
       <option name="closed" value="true" />
@@ -307,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696068571387</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="十年之约">
+      <option name="closed" value="true" />
+      <created>1696069295877</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1696069295877</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,7 +333,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="添加Hexo建站指南" />
     <MESSAGE value="更新twikoo" />
     <MESSAGE value="设置CDN" />
     <MESSAGE value="将twikoo的cdn修改为https://lib.baomitu.com/twikoo/latest/twikoo.all.min.js" />
@@ -353,6 +357,7 @@
     <MESSAGE value="更新主页的nav栏" />
     <MESSAGE value="更新部分图片链接" />
     <MESSAGE value="更新部分图片链接，加入底栏，打开[开往]" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新部分图片链接，加入底栏，打开[开往]" />
+    <MESSAGE value="十年之约" />
+    <option name="LAST_COMMIT_MESSAGE" value="十年之约" />
   </component>
 </project>

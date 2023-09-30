@@ -24,7 +24,7 @@ keywords:
   - Github连接
   - 拉取版本
   - Idea集成
-cover: https://resource.joker2yue.top/blog/images/coverImg/00Git的安装与使用.jpg
+cover: https://resource.joker2yue.top/blog/images/coverImg/Git的安装与使用.jpg
 ai:
   - 本文详细介绍了Git的安装和使用过程。在安装部分，包括从淘宝镜像下载Git并进行安装的步骤，以及配置安装选项和环境变量。在使用部分，介绍了Git的启动方式和全局设置，还提供了一些有用的Git命令和常见问题的解决方法，如加速Github连接和限制拉取历史版本。文章还涉及了在Idea中集成Git的设置。这篇文章为初学者提供了Git的全面指南。
   - 本文详细介绍了Git的安装和使用过程，包括从淘宝镜像下载Git、配置安装选项和环境变量。在使用部分，介绍了Git的启动方式和全局设置，还提供了一些有用的Git命令和常见问题的解决方法。文章还提到了如何在Idea中集成Git。这篇文章为初学者提供了Git的全面指南，帮助他们更好地掌握这一强大的版本控制工具。
