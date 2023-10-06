@@ -451,9 +451,9 @@ footer:
   owner:
     enable: true
     since: 2022
-  custom_text: 你好，世界！
+  custom_text:
   runtime:
-    enable: true
+    enable: false
     launch_time: 08/25/2023 00:00:00 # 网站上线时间
     work_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-上班摸鱼中.svg
     work_description: 距离月入25k也就还差一个大佬带我~
@@ -585,7 +585,8 @@ baidu_analytics: 4ba70286307cdb2f048fa87f409fda03
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
-google_analytics: G-Y307Y01DWS
+google_analytics:
+  # G-Y307Y01DWS
 
 # CNZZ Analytics
 # https://www.umeng.com/
@@ -833,7 +834,7 @@ aside:
     name_link: https://github.com/Joker2Yue
 
   card_announcement:
-    enable: true
+    enable: false
     content: 小破站终于搭建完成啦，快来围观吧~
   # 微信公众号
   card_weixin:
@@ -877,13 +878,13 @@ aside:
 # 访问人数
 busuanzi:
   site_uv: true
-  site_pv: true
+  site_pv: false
   page_pv: true
 
 # Time difference between publish date and now (网页运行时间)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
-  enable: false
+  enable: true  # true or false
   publish_date: 08/25/2023 00:00:00
 
 # Console - Newest Comments
@@ -1250,7 +1251,8 @@ inject:
   head:
     # 自定义css
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
-    - <link rel="stylesheet" href="https://cdn3.codesign.qq.com/icons/X2bzpZvRWkZkAaV/latest/iconfont.css">
+    # - <link rel="stylesheet" href="https://cdn3.codesign.qq.com/icons/X2bzpZvRWkZkAaV/latest/iconfont.css">
+    - <link rel="stylesheet" href="/css/joker.css" media="defer" onload="this.media='all'">
 
 
   bottom:

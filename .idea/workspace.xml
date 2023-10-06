@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="更新图片路径">
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="添加站长统计">
+      <change afterPath="$PROJECT_DIR$/source/css/joker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/js/joker.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
     </list>
@@ -15,6 +17,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Joker2Yue&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="30294273-a704-4e93-9003-e5274c1bd930" />
+        <option name="url" value="https://github.com/Joker2Yue/Joker2Yue-Blog.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,7 +63,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -77,7 +93,12 @@
       <workItem from="1696071140151" duration="222000" />
       <workItem from="1696071375257" duration="755000" />
       <workItem from="1696075235488" duration="35000" />
-      <workItem from="1696075703356" duration="942000" />
+      <workItem from="1696075703356" duration="3277000" />
+      <workItem from="1696506811124" duration="73000" />
+      <workItem from="1696506893191" duration="244000" />
+      <workItem from="1696507149164" duration="647000" />
+      <workItem from="1696572597312" duration="2442000" />
+      <workItem from="1696579197618" duration="4589000" />
     </task>
     <task id="LOCAL-00001" summary="添加Hexo建站指南">
       <option name="closed" value="true" />
@@ -327,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696069526429</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="更新图片路径">
+      <option name="closed" value="true" />
+      <created>1696076910115</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1696076910115</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
