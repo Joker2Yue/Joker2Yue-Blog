@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="修改底部栏，修改文章CSS">
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="添加Microsoft Clarity">
+      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,24 +51,29 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Program/WebStorm/joker2yueBlog&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/Program/WebStorm/joker2yueBlog",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件": [
+      "AngularJS"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Program\WebStorm\joker2yueBlog" />
@@ -98,7 +107,7 @@
       <workItem from="1696572597312" duration="2442000" />
       <workItem from="1696579197618" duration="5368000" />
       <workItem from="1696589237603" duration="129000" />
-      <workItem from="1696645513354" duration="329000" />
+      <workItem from="1696645513354" duration="2599000" />
     </task>
     <task id="LOCAL-00001" summary="添加Hexo建站指南">
       <option name="closed" value="true" />
@@ -364,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696584115630</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="添加Microsoft Clarity">
+      <option name="closed" value="true" />
+      <created>1696645869278</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1696645869278</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,7 +402,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="设置CDN" />
     <MESSAGE value="将twikoo的cdn修改为https://lib.baomitu.com/twikoo/latest/twikoo.all.min.js" />
     <MESSAGE value="恢复aplayer系列cdn" />
     <MESSAGE value="修复aplayer系列cdn" />
@@ -410,6 +426,7 @@
     <MESSAGE value="十年之约" />
     <MESSAGE value="更新图片路径" />
     <MESSAGE value="修改底部栏，修改文章CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改底部栏，修改文章CSS" />
+    <MESSAGE value="添加Microsoft Clarity" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加Microsoft Clarity" />
   </component>
 </project>
