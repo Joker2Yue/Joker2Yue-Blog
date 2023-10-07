@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="植入gulp" />
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="关闭baiduAnalysis">
+      <change afterPath="$PROJECT_DIR$/.github/refresh-dogecloud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/refresh-dogecloud.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +80,9 @@
       <recent name="E:\Program\WebStorm\joker2yueBlog\source\images\banner" />
       <recent name="E:\Program\WebStorm\joker2yueBlog\source\_posts" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Program\WebStorm\joker2yueBlog\.github\workflows" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -100,7 +110,7 @@
       <workItem from="1696572597312" duration="2442000" />
       <workItem from="1696579197618" duration="5368000" />
       <workItem from="1696589237603" duration="129000" />
-      <workItem from="1696645513354" duration="3103000" />
+      <workItem from="1696645513354" duration="6825000" />
     </task>
     <task id="LOCAL-00001" summary="添加Hexo建站指南">
       <option name="closed" value="true" />
@@ -382,7 +392,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696648982829</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="关闭baiduAnalysis">
+      <option name="closed" value="true" />
+      <created>1696674742092</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1696674742092</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,7 +421,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="恢复aplayer系列cdn" />
     <MESSAGE value="修复aplayer系列cdn" />
     <MESSAGE value="更改名称C++.png" />
     <MESSAGE value="更改twikoo的CDN为https://cdn.jsdelivr.net/npm/twikoo@latest/dist/twikoo.all.min.js" />
@@ -428,6 +445,7 @@
     <MESSAGE value="修改底部栏，修改文章CSS" />
     <MESSAGE value="添加Microsoft Clarity" />
     <MESSAGE value="植入gulp" />
-    <option name="LAST_COMMIT_MESSAGE" value="植入gulp" />
+    <MESSAGE value="关闭baiduAnalysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="关闭baiduAnalysis" />
   </component>
 </project>
