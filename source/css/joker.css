@@ -1,0 +1,66 @@
+hr {
+    padding: 0;
+    margin: 20px 0 15px;
+    overflow: hidden;
+    box-sizing: content-box;
+    /*background-color: #212121;*/
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    line-height: 1.4;
+    cursor: text;
+}
+
+h1 {
+    padding-bottom: 0.3em;
+    font-size: 2.25em;
+    line-height: 1.2;
+}
+
+h2 {
+    padding-bottom: 0.3em;
+    font-size: 1.75em;
+    line-height: 1.225;
+}
+
+h3 {
+    font-size: 1.5em;
+    line-height: 1.43;
+}
+
+h4 {
+    font-size: 1.25em;
+    padding-top: 0.5em;
+}
+
+h5 {
+    margin-top: 1rem;
+    font-size: 1em;
+}
+
+h6 {
+    font-size: 1em;
+    color: #777;
+}
+
+blockquote {
+    border: transparent;
+    border-left: 4px solid #aaaaaa80;
+    border-radius: 0;
+    margin-left: 2px;
+    padding: 0 15px;
+    color: #aaa;
+    background-color: transparent;
+}
+
+blockquote blockquote {
+    padding-right: 0;
+}

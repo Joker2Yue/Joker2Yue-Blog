@@ -54,6 +54,6 @@ gulp.task('minify-images', async function (done) {
 });
 
 // 开始任务
-gulp.task('default', gulp.parallel('minify-html', 'minify-css', 'minify-js', async function () {
+gulp.task('default', gulp.parallel('minify-html', 'minify-css', async function () {
     // Do something after a, b, and c are finished.
 }));
