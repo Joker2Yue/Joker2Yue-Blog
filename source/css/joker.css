@@ -1,9 +1,9 @@
 hr {
-    padding: 0;
-    margin: 20px 0 15px;
-    overflow: hidden;
-    box-sizing: content-box;
-    /*background-color: #212121;*/
+    padding: 0 !important;
+    margin: 20px 0 15px !important;
+    overflow: hidden !important;
+    box-sizing: content-box !important;
+    /*background-color: #212121 !important;*/
 }
 
 h1,
@@ -12,55 +12,55 @@ h3,
 h4,
 h5,
 h6 {
-    position: relative;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    line-height: 1.4;
-    cursor: text;
+    position: relative !important;
+    margin-top: 2rem !important;
+    margin-bottom: 1rem !important;
+    line-height: 1.4 !important;
+    cursor: text !important;
 }
 
 h1 {
-    padding-bottom: 0.3em;
-    font-size: 2.25em;
-    line-height: 1.2;
+    padding-bottom: 0.3em !important;
+    font-size: 2.25em !important;
+    line-height: 1.2 !important;
 }
 
 h2 {
-    padding-bottom: 0.3em;
-    font-size: 1.75em;
-    line-height: 1.225;
+    padding-bottom: 0.3em !important;
+    font-size: 1.75em !important;
+    line-height: 1.225 !important;
 }
 
 h3 {
-    font-size: 1.5em;
-    line-height: 1.43;
+    font-size: 1.5em !important;
+    line-height: 1.43 !important;
 }
 
 h4 {
-    font-size: 1.25em;
-    padding-top: 0.5em;
+    font-size: 1.25em !important;
+    padding-top: 0.5em !important;
 }
 
 h5 {
-    margin-top: 1rem;
-    font-size: 1em;
+    margin-top: 1rem !important;
+    font-size: 1em !important;
 }
 
 h6 {
-    font-size: 1em;
-    color: #777;
+    font-size: 1em !important;
+    color: #777 !important;
 }
 
 blockquote {
-    border: transparent;
-    border-left: 4px solid #aaaaaa80;
-    border-radius: 0;
-    margin-left: 2px;
-    padding: 0 15px;
-    color: #aaa;
-    background-color: transparent;
+    border: transparent !important;
+    border-left: 4px solid #aaaaaa80 !important;
+    border-radius: 0 !important;
+    margin-left: 2px !important;
+    padding: 0 15px !important;
+    color: #aaa !important;
+    background-color: transparent !important;
 }
 
 blockquote blockquote {
-    padding-right: 0;
+    padding-right: 0 !important;
 }

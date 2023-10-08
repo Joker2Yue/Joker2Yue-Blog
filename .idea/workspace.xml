@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="gulp配置">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/css/joker.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/css/joker.css" afterDir="false" />
-    </list>
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="部分CSS修正" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +105,7 @@
       <workItem from="1696589237603" duration="129000" />
       <workItem from="1696645513354" duration="7475000" />
       <workItem from="1696697305062" duration="1222000" />
-      <workItem from="1696748401244" duration="1892000" />
+      <workItem from="1696748401244" duration="2294000" />
     </task>
     <task id="LOCAL-00001" summary="添加Hexo建站指南">
       <option name="closed" value="true" />
@@ -414,7 +411,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696685108401</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="部分CSS修正">
+      <option name="closed" value="true" />
+      <created>1696774178800</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1696774178800</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,7 +440,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="更改twikoo的CDN为https://cdn.jsdelivr.net/npm/twikoo@latest/dist/twikoo.all.min.js" />
     <MESSAGE value="更新分类" />
     <MESSAGE value="设置主色调的API调用" />
     <MESSAGE value="关于本人" />
@@ -460,6 +464,7 @@
     <MESSAGE value="关闭baiduAnalysis" />
     <MESSAGE value="尝试增加自动刷新多吉云" />
     <MESSAGE value="gulp配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="gulp配置" />
+    <MESSAGE value="部分CSS修正" />
+    <option name="LAST_COMMIT_MESSAGE" value="部分CSS修正" />
   </component>
 </project>
