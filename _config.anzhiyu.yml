@@ -1254,6 +1254,8 @@ inject:
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
     # - <link rel="stylesheet" href="https://cdn3.codesign.qq.com/icons/X2bzpZvRWkZkAaV/latest/iconfont.css">
     - <link rel="stylesheet" href="/css/joker.css" media="defer" onload="this.media='all'">
+    # 自定义meta
+    - <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 
 
   bottom:
