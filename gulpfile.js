@@ -2,7 +2,6 @@
 const gulp = require('gulp');
 const minifycss = require('gulp-minify-css');
 const uglify = require('gulp-uglify');
-const babel = require('gulp-babel')
 const htmlmin = require('gulp-htmlmin');
 const htmlclean = require('gulp-htmlclean');
 
@@ -30,7 +29,6 @@ gulp.task('minify-html', async function () {
 //压缩js 不压缩min.js
 gulp.task('minify-js', async function () {
     return gulp.src(['./public/**/*.js', '!./public/**/*.min.js'])
-        .pipe(babel({presets: ['@babel/env']}))
         .pipe(uglify())
         .pipe(gulp.dest('./public'));
 });
@@ -54,6 +52,6 @@ gulp.task('minify-images', async function (done) {
 });
 
 // 开始任务
-gulp.task('default', gulp.parallel('minify-html', 'minify-css', async function () {
+gulp.task('default', gulp.parallel('minify-html', 'minify-css', 'minify-js', async function () {
     // Do something after a, b, and c are finished.
 }));
