@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="部分CSS修正" />
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="自动折叠代码" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,29 +44,30 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Program/WebStorm/joker2yueBlog&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/Program/WebStorm/joker2yueBlog",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "ts.external.directory.path": "D:\\Program Files\\JetBrains\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件&quot;: [
-      &quot;AngularJS&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件": [
+      "AngularJS"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Program\WebStorm\joker2yueBlog" />
@@ -105,7 +106,7 @@
       <workItem from="1696589237603" duration="129000" />
       <workItem from="1696645513354" duration="7475000" />
       <workItem from="1696697305062" duration="1222000" />
-      <workItem from="1696748401244" duration="2294000" />
+      <workItem from="1696748401244" duration="9945000" />
     </task>
     <task id="LOCAL-00001" summary="添加Hexo建站指南">
       <option name="closed" value="true" />
@@ -419,7 +420,79 @@
       <option name="project" value="LOCAL" />
       <updated>1696774178800</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="CSS替换为!important">
+      <option name="closed" value="true" />
+      <created>1696774812776</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1696774812776</updated>
+    </task>
+    <task id="LOCAL-00041" summary="删除joker">
+      <option name="closed" value="true" />
+      <created>1696775012067</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1696775012067</updated>
+    </task>
+    <task id="LOCAL-00042" summary="gulp，redeploy">
+      <option name="closed" value="true" />
+      <created>1696776959722</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1696776959722</updated>
+    </task>
+    <task id="LOCAL-00043" summary="gulp，clean something">
+      <option name="closed" value="true" />
+      <created>1696777237966</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1696777237966</updated>
+    </task>
+    <task id="LOCAL-00044" summary="gulp只添加minify-html">
+      <option name="closed" value="true" />
+      <created>1696777666230</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1696777666230</updated>
+    </task>
+    <task id="LOCAL-00045" summary="gulp不在Vercel部署">
+      <option name="closed" value="true" />
+      <created>1696779238570</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1696779238570</updated>
+    </task>
+    <task id="LOCAL-00046" summary="自定义meta">
+      <option name="closed" value="true" />
+      <created>1696782819265</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1696782819265</updated>
+    </task>
+    <task id="LOCAL-00047" summary="自动折叠代码">
+      <option name="closed" value="true" />
+      <created>1696783450536</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1696783450536</updated>
+    </task>
+    <task id="LOCAL-00048" summary="自动折叠代码">
+      <option name="closed" value="true" />
+      <created>1696784371022</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1696784371022</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,14 +513,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="更新分类" />
-    <MESSAGE value="设置主色调的API调用" />
-    <MESSAGE value="关于本人" />
-    <MESSAGE value="更新版本" />
-    <MESSAGE value="音乐馆更新" />
-    <MESSAGE value="更新主色调" />
-    <MESSAGE value="修复：当图片格式语法为&#10;![]()&#10;时导致的排版错乱问题" />
-    <MESSAGE value="移除无用语句及插件" />
     <MESSAGE value="修改侧边栏中最新发布的条数" />
     <MESSAGE value="修改permalink" />
     <MESSAGE value="修改default_top_img" />
@@ -465,6 +530,14 @@
     <MESSAGE value="尝试增加自动刷新多吉云" />
     <MESSAGE value="gulp配置" />
     <MESSAGE value="部分CSS修正" />
-    <option name="LAST_COMMIT_MESSAGE" value="部分CSS修正" />
+    <MESSAGE value="CSS替换为!important" />
+    <MESSAGE value="删除joker" />
+    <MESSAGE value="gulp，redeploy" />
+    <MESSAGE value="gulp，clean something" />
+    <MESSAGE value="gulp只添加minify-html" />
+    <MESSAGE value="gulp不在Vercel部署" />
+    <MESSAGE value="自定义meta" />
+    <MESSAGE value="自动折叠代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="自动折叠代码" />
   </component>
 </project>

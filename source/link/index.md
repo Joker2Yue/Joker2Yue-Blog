@@ -51,7 +51,7 @@ top_img: false
 <!-- tab 🎨HTML -->
 
 ```html
-<a href="https://blog.anheyu.com/" rel="external nofollow">Joker2Yue-Joker2Yue的个人博客</a>
+<a href="https://blog.joker2yue.top/" rel="external nofollow">Joker2Yue-Joker2Yue的个人博客</a>
 ```
 
 <!-- endtab -->
