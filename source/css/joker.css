@@ -65,6 +65,6 @@ blockquote blockquote {
     padding-right: 0;
 }
 
-.banner-button-group{
+.banner-button-group, .banner-button-group a {
     width: 118px !important;
 }

@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="顶部栏【更多推荐】宽度">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/css/joker.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/css/joker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/js/joker.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/js/joker.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,23 +116,7 @@
       <workItem from="1696930569220" duration="1596000" />
       <workItem from="1697023351339" duration="1843000" />
       <workItem from="1697026667441" duration="2346000" />
-      <workItem from="1697077502361" duration="665000" />
-    </task>
-    <task id="LOCAL-00002" summary="更新twikoo">
-      <option name="closed" value="true" />
-      <created>1694496661133</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1694496661133</updated>
-    </task>
-    <task id="LOCAL-00003" summary="设置CDN">
-      <option name="closed" value="true" />
-      <created>1695831289971</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1695831289971</updated>
+      <workItem from="1697077502361" duration="3112000" />
     </task>
     <task id="LOCAL-00004" summary="将twikoo的cdn修改为https://lib.baomitu.com/twikoo/latest/twikoo.all.min.js">
       <option name="closed" value="true" />
@@ -507,7 +494,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697077627074</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="顶部栏【更多推荐】宽度">
+      <option name="closed" value="true" />
+      <created>1697078177877</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1697078177877</updated>
+    </task>
+    <task id="LOCAL-00052" summary="顶部栏【更多推荐】宽度">
+      <option name="closed" value="true" />
+      <created>1697078601710</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1697078601710</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
