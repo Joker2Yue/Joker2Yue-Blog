@@ -64,3 +64,7 @@ blockquote {
 blockquote blockquote {
     padding-right: 0;
 }
+
+.topGroup .banner-button-group{
+    width: 118px;
+}
