@@ -1,8 +1,11 @@
-// 使用CSS选择器选中目标元素
-const selector = "div.fcirclePage > div > div.banner-button-group > a > span";
-const element = document.querySelector(selector);
+function checkForPageChange() {
+    const selector = "div.fcirclePage > div > div.banner-button-group > a > span";
+    const element = document.querySelector(selector);
 
-// 修改元素的文本内容
-if (element) {
-    element.textContent = "关于本人";
+    if (element) {
+        element.textContent = "关于本人";
+    }
 }
+
+// 每隔一定时间检查页面状态
+setInterval(checkForPageChange, 2000); // 1秒钟检查一次
