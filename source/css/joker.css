@@ -66,5 +66,5 @@ blockquote blockquote {
 }
 
 .banner-button-group{
-    width: 118px;
+    width: 118px !important;
 }

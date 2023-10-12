@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="修改友链中的信息">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="顶部栏【更多推荐】宽度">
+      <change beforePath="$PROJECT_DIR$/source/css/joker.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/css/joker.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,14 +113,7 @@
       <workItem from="1696930569220" duration="1596000" />
       <workItem from="1697023351339" duration="1843000" />
       <workItem from="1697026667441" duration="2346000" />
-    </task>
-    <task id="LOCAL-00001" summary="添加Hexo建站指南">
-      <option name="closed" value="true" />
-      <created>1694495614261</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1694495614261</updated>
+      <workItem from="1697077502361" duration="665000" />
     </task>
     <task id="LOCAL-00002" summary="更新twikoo">
       <option name="closed" value="true" />
@@ -506,7 +499,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696867324655</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="顶部栏【更多推荐】宽度">
+      <option name="closed" value="true" />
+      <created>1697077627073</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1697077627074</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,7 +528,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="修改permalink" />
     <MESSAGE value="修改default_top_img" />
     <MESSAGE value="增加友链功能" />
     <MESSAGE value="友链功能完善" />
@@ -552,6 +552,7 @@
     <MESSAGE value="自定义meta" />
     <MESSAGE value="自动折叠代码" />
     <MESSAGE value="修改友链中的信息" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改友链中的信息" />
+    <MESSAGE value="顶部栏【更多推荐】宽度" />
+    <option name="LAST_COMMIT_MESSAGE" value="顶部栏【更多推荐】宽度" />
   </component>
 </project>
