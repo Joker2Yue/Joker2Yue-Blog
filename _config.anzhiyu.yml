@@ -453,7 +453,7 @@ footer:
     since: 2022
   custom_text:
   runtime:
-    enable: false
+    enable: true
     launch_time: 08/25/2023 00:00:00 # 网站上线时间
     work_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-上班摸鱼中.svg
     work_description: 距离月入25k也就还差一个大佬带我~
@@ -1093,10 +1093,10 @@ home_top:
 
 # 朋友圈配置
 friends_vue:
-  enable: false
-  vue_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.1/friends/index.4f887d95.js
-  apiurl: # 朋友圈后端地址
-  top_background:
+  enable: true
+  vue_js: https://resource.joker2yue.top/blog/js/friends.js
+  apiurl: https://hexo-circle-of-firends.joker2yue.top/ # 朋友圈后端地址
+  top_background: https://resource.joker2yue.top/blog/images/banner/starsky.jpg
 
 # 深色模式粒子效果canvas
 universe:

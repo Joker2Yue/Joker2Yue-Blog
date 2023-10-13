@@ -6,5 +6,6 @@ _config.Acrylic.dev.yml
 *.log
 node_modules/
 public/
+themes/
 .deploy*/
 _multiconfig.yml

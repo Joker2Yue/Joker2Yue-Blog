@@ -32,6 +32,10 @@ i18n_dir: :lang           # 国际化（i18n）文件夹
 skip_render:              # 跳过指定文件的渲染。匹配到的文件将会被不做改动地复制到 public 目录中。
   - 'images/**'
   - 'json/**'
+  - 'js/**'
+  - 'css/**'
+  - 'fonts/**'
+  - 'i18n/**'
 
 # Writing
 new_post_name: :title.md  # 新文章的文件名称
@@ -198,24 +202,3 @@ markdown:
     case: 0
     separator: "-"
 
-
-# fcircle朋友圈设置
-# see https://anzhiy.cn/posts/3753.html
-fcircle:
-  enable: true #控制开关
-  apiurl: https://hexo-circle-of-firends.joker2yue.top/ #api地址
-  initnumber: 30 #【可选】页面初始化展示文章数量
-  stepnumber: 30 #【可选】每次加载增加的篇数
-  css: https://npm.elemecdn.com/hexo-filter-fcircle-anzhiyu@1.1.5/assets/css/default.css #【可选】开发者接口，自定义css链接
-  js: https://npm.elemecdn.com/hexo-filter-fcircle-anzhiyu@1.1.5/assets/js/fcircle.js #【可选】开发者接口，自定义js链接
-  fetchJs: https://npm.elemecdn.com/hexo-filter-fcircle-anzhiyu@1.1.5/assets/js/fetch.js
-  randomFriendsPostJS: https://npm.elemecdn.com/hexo-filter-fcircle-anzhiyu@1.1.5/assets/js/random-friends-post.js
-  topIcon: anzhiyufont anzhiyu-icon-arrow-circle-right
-  topLink: /about/
-  top_background: /images/banner/starsky.jpg
-  path: /fcircle #【可选】fcircle的路径名称。默认为 fcircle，生成的页面为 fcircle/index.html
-  front_matter: #【可选】fcircle页面的 front_matter 配置
-    title: 朋友圈
-    comments: false
-    aside: false
-    top_img: false
