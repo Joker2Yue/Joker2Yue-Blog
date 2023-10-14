@@ -68,3 +68,9 @@ blockquote blockquote {
 .banner-button-group, .banner-button-group a {
     width: 118px !important;
 }
+
+.author-content-item.personalities .image {
+    right: -30px;
+    top: 10px;
+    width: 320px;
+}
