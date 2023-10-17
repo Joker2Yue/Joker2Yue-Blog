@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="将主题换成自己的">
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="配置更新">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
     </list>
@@ -126,15 +126,7 @@
       <workItem from="1697348284344" duration="2003000" />
       <workItem from="1697518668844" duration="239000" />
       <workItem from="1697527735916" duration="10428000" />
-      <workItem from="1697547342798" duration="455000" />
-    </task>
-    <task id="LOCAL-00016" summary="音乐馆更新">
-      <option name="closed" value="true" />
-      <created>1695973156903</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1695973156903</updated>
+      <workItem from="1697547342798" duration="1335000" />
     </task>
     <task id="LOCAL-00017" summary="更新图片路径">
       <option name="closed" value="true" />
@@ -520,7 +512,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697544700087</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="配置更新">
+      <option name="closed" value="true" />
+      <created>1697547873317</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1697547873318</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,7 +544,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/anzhiyu" />
     </ignored-roots>
-    <MESSAGE value="添加Microsoft Clarity" />
     <MESSAGE value="植入gulp" />
     <MESSAGE value="关闭baiduAnalysis" />
     <MESSAGE value="尝试增加自动刷新多吉云" />
@@ -569,6 +568,7 @@
     <MESSAGE value="将hexo-theme-anzhiyu切换至自己的git仓库" />
     <MESSAGE value="修改【关于】界面的音乐推荐链接" />
     <MESSAGE value="将主题换成自己的" />
-    <option name="LAST_COMMIT_MESSAGE" value="将主题换成自己的" />
+    <MESSAGE value="配置更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="配置更新" />
   </component>
 </project>

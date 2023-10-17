@@ -885,7 +885,7 @@ busuanzi:
 # Time difference between publish date and now (网页运行时间)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
-  enable: true  # true or false
+  enable: flase  # true or false
   publish_date: 08/25/2023 00:00:00
 
 # Console - Newest Comments

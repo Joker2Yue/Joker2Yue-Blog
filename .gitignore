@@ -7,5 +7,6 @@ _config.Acrylic.dev.yml
 node_modules/
 public/
 themes/
+.idea/
 .deploy*/
 _multiconfig.yml
