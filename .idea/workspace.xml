@@ -4,88 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="【关于】界面样式修改">
-      <change afterPath="$PROJECT_DIR$/source/images/link/siteshot/blog.joker2yue.cn.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="恢复中控台">
       <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_data/about.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/about.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_data/creativity.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/creativity.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_data/essay.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/essay.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_data/link.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/link.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Git的安装与使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Git的安装与使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo建站指南-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Hexo建站指南-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo建站指南-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Hexo建站指南-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Nodejs，NVM的安装与使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Nodejs，NVM的安装与使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/从Java到Kotlin.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/从Java到Kotlin.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/代码记事本.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/代码记事本.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-10.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-10.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-11.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-12.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-12.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-13.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-13.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-14.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-14.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-15.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-15.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-16.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-16.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-17.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-17.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-18.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-18.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-19.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-19.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-20.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-20.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-21.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-21.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-22.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-22.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-23.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-23.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-24.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-24.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-25.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-25.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-26.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-26.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-27.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-27.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-28.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-28.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-29.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-29.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-30.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-30.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-31.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-31.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-32.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-32.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-33.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-33.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-34.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-34.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-35.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-35.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-36.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-36.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-37.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-37.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-38.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-38.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-39.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-39.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-40.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-40.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-41.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-41.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-42.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-42.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-43.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-43.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-5.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-6.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-7.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-8.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-8.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-9.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随狂神学Java-9.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-10.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-10.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-11.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-12.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-12.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-13.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-13.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-14.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-14.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-15.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-15.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-16.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-16.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-17.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-17.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-18.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-18.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-5.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-6.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-7.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-8.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-8.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-9.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/跟随黑马学前端-9.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/css/joker.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/css/joker.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/images/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/js/friends.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/js/friends.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/link/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/link/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,31 +124,7 @@
       <workItem from="1697292104820" duration="4661000" />
       <workItem from="1697348284344" duration="2003000" />
       <workItem from="1697518668844" duration="239000" />
-      <workItem from="1697527735916" duration="5657000" />
-    </task>
-    <task id="LOCAL-00009" summary="更新分类">
-      <option name="closed" value="true" />
-      <created>1695899853636</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1695899853636</updated>
-    </task>
-    <task id="LOCAL-00010" summary="更新分类">
-      <option name="closed" value="true" />
-      <created>1695900398461</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1695900398461</updated>
-    </task>
-    <task id="LOCAL-00011" summary="更新分类">
-      <option name="closed" value="true" />
-      <created>1695900585325</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1695900585325</updated>
+      <workItem from="1697527735916" duration="6152000" />
     </task>
     <task id="LOCAL-00012" summary="设置主色调的API调用">
       <option name="closed" value="true" />
@@ -598,7 +494,31 @@
       <option name="project" value="LOCAL" />
       <updated>1697272598252</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="全部修改为joker2yue.cn">
+      <option name="closed" value="true" />
+      <created>1697540970492</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1697540970493</updated>
+    </task>
+    <task id="LOCAL-00059" summary="全部修改为joker2yue.cn">
+      <option name="closed" value="true" />
+      <created>1697541202509</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1697541202509</updated>
+    </task>
+    <task id="LOCAL-00060" summary="恢复中控台">
+      <option name="closed" value="true" />
+      <created>1697541231259</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1697541231259</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -622,8 +542,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/anzhiyu" />
     </ignored-roots>
-    <MESSAGE value="更新主页的nav栏" />
-    <MESSAGE value="更新部分图片链接" />
     <MESSAGE value="更新部分图片链接，加入底栏，打开[开往]" />
     <MESSAGE value="十年之约" />
     <MESSAGE value="更新图片路径" />
@@ -647,6 +565,8 @@
     <MESSAGE value="顶部栏修改【关于我】" />
     <MESSAGE value="部分文件修改" />
     <MESSAGE value="【关于】界面样式修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="【关于】界面样式修改" />
+    <MESSAGE value="全部修改为joker2yue.cn" />
+    <MESSAGE value="恢复中控台" />
+    <option name="LAST_COMMIT_MESSAGE" value="恢复中控台" />
   </component>
 </project>
