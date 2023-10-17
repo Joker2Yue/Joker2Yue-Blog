@@ -11,7 +11,7 @@ categories:
   - [必看]
   - [技术]
   - [Java]
-cover: https://resource.joker2yue.top/blog/images/coverImg/JavaSE/12.jpg
+cover: https://resource.joker2yue.cn/blog/images/coverImg/JavaSE/12.jpg
 keywords:
   - IO流
   - 分类

@@ -11,7 +11,7 @@ categories:
   - [必看]
   - [技术]
   - [Java]
-cover: https://resource.joker2yue.top/blog/images/coverImg/Vue/01.jpg
+cover: https://resource.joker2yue.cn/blog/images/coverImg/Vue/01.jpg
 keywords:
   - 大前端
   - Node.js

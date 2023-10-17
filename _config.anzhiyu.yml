@@ -30,7 +30,7 @@ nav:
     - title: 网页
       item:
         - name: 博客
-          link: https://Blog.Joker2Yue.Top/
+          link: https://Blog.Joker2Yue.cn/
           icon: /img/favicon.ico
     - title: 项目
       item:
@@ -74,7 +74,7 @@ social:
 author_status:
   enable: true
   # 可以是任何图片，建议放表情包或者emoji图片，效果都很好，[表情包速查](https://emotion.xiaokang.me/)
-  statusImg: "https://resource.joker2yue.top/blog/images/statusImg/喜笑颜开.png"
+  statusImg: "https://resource.joker2yue.cn/blog/images/statusImg/喜笑颜开.png"
   skills:
      - 🤖️ 数码科技爱好者
      - 🔍 分享与热心帮助
@@ -173,11 +173,11 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: https://resource.joker2yue.top/blog/images/favicon.ico
+favicon: https://resource.joker2yue.cn/blog/images/favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://resource.joker2yue.top/blog/images/avatar_joker.jpg
+  img: https://resource.joker2yue.cn/blog/images/avatar_joker.jpg
   effect: false
 
 # Disable all banner image
@@ -199,21 +199,21 @@ cover:
   position: left
   # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
   default_cover:
-      - https://resource.joker2yue.top/blog/images/coverImg/default/default_cover1.png
-      - https://resource.joker2yue.top/blog/images/coverImg/default/default_cover2.jpg
-      - https://resource.joker2yue.top/blog/images/coverImg/default/default_cover3.jpg
-      - https://resource.joker2yue.top/blog/images/coverImg/default/default_cover4.jpg
+      - https://resource.joker2yue.cn/blog/images/coverImg/default/default_cover1.png
+      - https://resource.joker2yue.cn/blog/images/coverImg/default/default_cover2.jpg
+      - https://resource.joker2yue.cn/blog/images/coverImg/default/default_cover3.jpg
+      - https://resource.joker2yue.cn/blog/images/coverImg/default/default_cover4.jpg
 
 # Replace Broken Images (替换无法显示的图片)
 error_img:
-  flink: https://resource.joker2yue.top/blog/images/joker_404.png
-  post_page: https://resource.joker2yue.top/blog/images/404.jpg
+  flink: https://resource.joker2yue.cn/blog/images/joker_404.png
+  post_page: https://resource.joker2yue.cn/blog/images/404.jpg
 
 # A simple 404 page
 error_404:
   enable: true
   subtitle: "哎呀，页面走丢咯"
-  background: https://resource.joker2yue.top/blog/images/joker_404.png
+  background: https://resource.joker2yue.cn/blog/images/joker_404.png
 
 post_meta:
   page: # Home Page
@@ -235,7 +235,7 @@ mainTone:
   enable: true # true or false 文章是否启用获取图片主色调
   mode: both # cdn/api/both cdn模式为图片url+imageAve参数获取主色调，api模式为请求API获取主色调，both模式会先请求cdn参数，无法获取的情况下将请求API获取
   # 项目地址：https://github.com/anzhiyu-c/img2color-go
-  api: https://img2color-go.joker2yue.top/api?img= # mode为api时可填写
+  api: https://img2color-go.joker2yue.cn/api?img= # mode为api时可填写
   cover_change: true # 整篇文章跟随cover修改主色调
 
 # wordcount (字数统计)
@@ -286,10 +286,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: https://resource.joker2yue.top/blog/images/reward/wechat.png
+    - img: https://resource.joker2yue.cn/blog/images/reward/wechat.png
       link:
       text: 微信
-    - img: https://resource.joker2yue.top/blog/images/reward/alipay.png
+    - img: https://resource.joker2yue.cn/blog/images/reward/alipay.png
       link:
       text: 支付宝
 
@@ -398,7 +398,7 @@ waline:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://twikoo.joker2yue.top/
+  envId: https://twikoo.joker2yue.cn/
   region: ap-hunan
   visitor: false
   option:
@@ -814,7 +814,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://resource.joker2yue.top/blog/images/avatar_load.jpg
+  avatar: https://resource.joker2yue.cn/blog/images/avatar_load.jpg
 
 # aside (侧边栏)
 # --------------------------------------
@@ -920,7 +920,7 @@ translate:
   rightMenuMsgToSimplifiedChinese: "转为简体"
 
 # Read Mode (閲读模式)
-readmode: false
+readmode: true
 
 # 中控台
 centerConsole: true
@@ -1032,7 +1032,7 @@ pangu:
 lazyload:
   enable: true
   field: site # site/post
-  placeholder: https://resource.joker2yue.top/blog/images/loading.gif
+  placeholder: https://resource.joker2yue.cn/blog/images/loading.gif
   blur: true
   progressive: true
 
@@ -1044,11 +1044,11 @@ pwa:
   startup_image_enable: true
   manifest: /manifest.json
   theme_color: var(--anzhiyu-main)
-  mask_icon: https://resource.joker2yue.top/blog/images/siteicon/apple-icon-180.png
-  apple_touch_icon: https://resource.joker2yue.top/blog/images/siteicon/apple-icon-180.png
-  bookmark_icon: https://resource.joker2yue.top/blog/images/siteicon/apple-icon-180.png
-  favicon_32_32: https://resource.joker2yue.top/blog/images/siteicon/32.png
-  favicon_16_16: https://resource.joker2yue.top/blog/images/siteicon/16.png
+  mask_icon: https://resource.joker2yue.cn/blog/images/siteicon/apple-icon-180.png
+  apple_touch_icon: https://resource.joker2yue.cn/blog/images/siteicon/apple-icon-180.png
+  bookmark_icon: https://resource.joker2yue.cn/blog/images/siteicon/apple-icon-180.png
+  favicon_32_32: https://resource.joker2yue.cn/blog/images/siteicon/32.png
+  favicon_16_16: https://resource.joker2yue.cn/blog/images/siteicon/16.png
 
 # Open graph meta tags
 # https://developers.facebook.com/docs/sharing/webmasters/
@@ -1086,18 +1086,18 @@ home_top:
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
-    tips: Blog.Joker2Yue.Top
+    tips: Blog.Joker2Yue.cn
     title: 关于本站
-    image: https://resource.joker2yue.top/blog/images/banner/banner.jpg
+    image: https://resource.joker2yue.cn/blog/images/banner/banner.jpg
     link: /website/
 
 # 朋友圈配置
 friends_vue:
   enable: true
-  vue_js: https://resource.joker2yue.top/blog/js/friends.js
-  apiurl: https://hexo-circle-of-firends.joker2yue.top/ # 朋友圈后端地址
+  vue_js: /js/friends.js
+  apiurl: https://hexo-circle-of-firends.joker2yue.cn/ # 朋友圈后端地址
   top_tips: 使用 友链朋友圈 订阅友链最新文章
-  top_background: https://resource.joker2yue.top/blog/images/banner/starsky.jpg
+  top_background: https://resource.joker2yue.cn/blog/images/banner/starsky.jpg
 
 # 深色模式粒子效果canvas
 universe:
@@ -1201,10 +1201,10 @@ post_head_ai_description:
   mode: local # 默认模式 可选值: tianli/local
   switchBtn: true # 可以配置是否显示切换按钮 以切换tianli/local
   btnLink: https://afdian.net/item/886a79d4db6711eda42a52540025c377
-  randomNum: 3 # 按钮最大的随机次数，也就是一篇文章最大随机出来几种
+  randomNum: 1 # 按钮最大的随机次数，也就是一篇文章最大随机出来几种
   basicWordCount: 1000 # 最低获取字符数, 最小1000, 最大1999
   key: 7d68f96f3824c2340712
-  Referer: https://Blog.Joker2Yue.Top/
+  Referer: https://Blog.Joker2Yue.cn/
 
 # 快捷键配置
 shortcutKey:

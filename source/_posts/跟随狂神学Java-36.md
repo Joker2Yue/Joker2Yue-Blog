@@ -10,7 +10,7 @@ tags:
 categories:
   - [跟随狂神学Java]
   - [Java]
-cover: https://resource.joker2yue.top/blog/images/coverImg/Vue/Vue.jpeg
+cover: https://resource.joker2yue.cn/blog/images/coverImg/Vue/Vue.jpeg
 keywords:
   - VUE
   - 前端

@@ -11,7 +11,7 @@ categories:
   - [必看]
   - [技术]
   - [Java]
-cover: https://resource.joker2yue.top/blog/images/coverImg/JavaWeb/01.webp
+cover: https://resource.joker2yue.cn/blog/images/coverImg/JavaWeb/01.webp
 keywords:
   - JavaWeb
   - 基本概念
@@ -4296,7 +4296,7 @@ ServletFileUpload负责处理上传的文件数据,并**将表单中每个输入
                      continue;
                  }
   
-                 //获得上传的文件名  https://resource.joker2yue.top/blog/images/girl/paojie.png
+                 //获得上传的文件名  https://resource.joker2yue.cn/blog/images/girl/paojie.png
                  String fileName = uploadFileName.substring(uploadFileName.lastIndexOf("\\") + 1);
                  //获得文件的后缀名
                  String fileExtName = uploadFileName.substring(uploadFileName.lastIndexOf(".") + 1);

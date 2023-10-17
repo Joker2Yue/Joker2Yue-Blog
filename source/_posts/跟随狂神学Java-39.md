@@ -12,7 +12,7 @@ categories:
   - [必看]
   - [技术]
   - [Java]
-cover: https://resource.joker2yue.top/blog/images/coverImg/Mybatis/MybatisPlus.jpg
+cover: https://resource.joker2yue.cn/blog/images/coverImg/Mybatis/MybatisPlus.jpg
 keywords:
   - MybatisPlus
   - 增强工具

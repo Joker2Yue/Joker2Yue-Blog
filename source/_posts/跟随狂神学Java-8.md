@@ -8,7 +8,7 @@ tags:
 categories:
   - [跟随狂神学Java]
   - [Java]
-cover: https://resource.joker2yue.top/blog/images/coverImg/JavaSE/08.jpg
+cover: https://resource.joker2yue.cn/blog/images/coverImg/JavaSE/08.jpg
 keywords:
   - 面向对象编程
   - 面向过程

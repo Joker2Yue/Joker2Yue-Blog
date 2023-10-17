@@ -11,7 +11,7 @@ categories:
   - [必看]
   - [技术]
   - [Java]
-cover: https://resource.joker2yue.top/blog/images/coverImg/JavaSE/16.jpg
+cover: https://resource.joker2yue.cn/blog/images/coverImg/JavaSE/16.jpg
 keywords:
   - 注解与反射
   - 注解

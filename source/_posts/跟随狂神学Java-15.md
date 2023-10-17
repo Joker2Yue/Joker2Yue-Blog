@@ -8,7 +8,7 @@ tags:
 categories:
   - [跟随狂神学Java]
   - [Java]
-cover: https://resource.joker2yue.top/blog/images/coverImg/JavaSE/10.jpg
+cover: https://resource.joker2yue.cn/blog/images/coverImg/JavaSE/10.jpg
 keywords:
   - 包装类
   - 类型转换

@@ -8,7 +8,7 @@ tags:
 categories:
   - [跟随狂神学Java]
   - [Java]
-cover: https://resource.joker2yue.top/blog/images/coverImg/JavaSE/17.jpg
+cover: https://resource.joker2yue.cn/blog/images/coverImg/JavaSE/17.jpg
 keywords:
   - JUC并发编程
   - 线程和进程

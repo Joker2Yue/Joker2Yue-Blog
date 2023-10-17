@@ -12,10 +12,10 @@ top_img: false
 
 ```yml
 - name: Joker2Yue
-  link: https://blog.joker2yue.top/
-  avatar: https://resource.joker2yue.top/blog/images/avatar_joker.jpg
+  link: https://blog.joker2yue.cn/
+  avatar: https://resource.joker2yue.cn/blog/images/avatar_joker.jpg
   descr: Joker Never Plays Jokes.
-  siteshot: https://resource.joker2yue.top/blog/images/link/siteshot/blog.joekr2yue.top.jpg
+  siteshot: https://resource.joker2yue.cn/blog/images/link/siteshot/blog.joker2yue.cn.jpg
 ```
 
 <!-- endtab -->
@@ -25,9 +25,9 @@ top_img: false
 ```json
 {
   "title": "Joker2Yue",
-  "screenshot": "https://resource.joker2yue.top/blog/images/link/siteshot/blog.joekr2yue.top.jpg",
-  "url": "https://blog.joker2yue.top/",
-  "avatar": "https://resource.joker2yue.top/blog/images/avatar_joker.jpg",
+  "screenshot": "https://resource.joker2yue.cn/blog/images/link/siteshot/blog.joker2yue.cn.jpg",
+  "url": "https://blog.joker2yue.cn/",
+  "avatar": "https://resource.joker2yue.cn/blog/images/avatar_joker.jpg",
   "description": "Joker Never Plays Jokes.",
   "keywords": "Joker2Yue"
 }
@@ -40,9 +40,9 @@ top_img: false
 | 名称       | 数值                                                                              |
 | ---------- |---------------------------------------------------------------------------------|
 | 站点名称   | Joker2Yue的个人博客                                                                  |
-| 站点截图   | https://resource.joker2yue.top/blog/images/link/siteshot/blog.joker2yue.top.jpg |
-| 站点链接   | https://blog.joker2yue.top/                                                     |
-| 站长头像   | https://resource.joker2yue.top/blog/images/avatar_joker.jpg                     |
+| 站点截图   | https://resource.joker2yue.cn/blog/images/link/siteshot/blog.joker2yue.cn.jpg |
+| 站点链接   | https://blog.joker2yue.cn/                                                     |
+| 站长头像   | https://resource.joker2yue.cn/blog/images/avatar_joker.jpg                     |
 | 站点描述   | Joker Never Plays Jokes.                                                        |
 | 站点关键词 | Joker2Yue, 个人博客， 技术，生活                                                          |
 
@@ -51,7 +51,7 @@ top_img: false
 <!-- tab 🎨HTML -->
 
 ```html
-<a href="https://blog.joker2yue.top/" rel="external nofollow">Joker2Yue-Joker2Yue的个人博客</a>
+<a href="https://blog.joker2yue.cn/" rel="external nofollow">Joker2Yue-Joker2Yue的个人博客</a>
 ```
 
 <!-- endtab -->
@@ -59,7 +59,7 @@ top_img: false
 <!-- tab 🌽Jade -->
 
 ```pug
-a(href='https://blog.joker2yue.top/' rel="external nofollow") Joke2Yue-Joker2Yue的个人博客
+a(href='https://blog.joker2yue.cn/' rel="external nofollow") Joke2Yue-Joker2Yue的个人博客
 ```
 
 <!-- endtab -->

@@ -3,7 +3,6 @@ hr {
     margin: 20px 0 15px;
     overflow: hidden;
     box-sizing: content-box;
-    /*background-color: #212121;*/
 }
 
 h1,
@@ -61,12 +60,8 @@ blockquote {
     background-color: transparent;
 }
 
-blockquote blockquote {
-    padding-right: 0;
-}
-
-.banner-button-group, .banner-button-group a {
-    width: 118px !important;
+.read-mode #article-container blockquote {
+    background-color: transparent;
 }
 
 .author-content-item.personalities .image {

@@ -12,7 +12,7 @@ categories:
   - [必看]
   - [技术]
   - [Java]
-cover: https://resource.joker2yue.top/blog/images/coverImg/Spring/SpringBoot.png
+cover: https://resource.joker2yue.cn/blog/images/coverImg/Spring/SpringBoot.png
 keywords:
   - Spring框架
   - Spring Boot
