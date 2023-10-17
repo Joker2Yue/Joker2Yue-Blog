@@ -387,7 +387,7 @@ valine:
 # waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
 waline:
-  serverURL: https://waline-5urcecdgx-joker2yue.vercel.app/ # Waline server address url
+  serverURL: https://waline.joker2yue.cn/ # Waline server address url
   bg: # waline background
   pageview: false
   meta: true # 归属地, 操作系统 前是否显示图标
@@ -1318,7 +1318,7 @@ CDN:
     # pjax: https://lib.baomitu.com/pjax/0.2.8/pjax.min.js
     # blueimp_md5:
     # valine:
-    twikoo: https://cdn.staticfile.org/twikoo/1.6.21/twikoo.all.min.js
+    twikoo: https://cdn.staticfile.org/twikoo/1.6.22/twikoo.all.min.js
     # waline_js:
     # waline_css:
     # sharejs: https://lib.baomitu.com/social-share.js/latest/js/social-share.min.js

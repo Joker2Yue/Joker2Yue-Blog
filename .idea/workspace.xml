@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="恢复中控台">
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="将主题换成自己的">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,9 +33,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2VHaa0GqTdosY3aZgbHRvsxBaz7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,30 +46,30 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/Program/WebStorm/joker2yueBlog/source/images/link/siteshot",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "ts.external.directory.path": "D:\\Program Files\\JetBrains\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Program/WebStorm/joker2yueBlog/source/images/link/siteshot&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Program Files\\JetBrains\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件": [
-      "AngularJS"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件&quot;: [
+      &quot;AngularJS&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Program\WebStorm\joker2yueBlog\source\images\link\siteshot" />
@@ -124,39 +125,8 @@
       <workItem from="1697292104820" duration="4661000" />
       <workItem from="1697348284344" duration="2003000" />
       <workItem from="1697518668844" duration="239000" />
-      <workItem from="1697527735916" duration="6152000" />
-    </task>
-    <task id="LOCAL-00012" summary="设置主色调的API调用">
-      <option name="closed" value="true" />
-      <created>1695906668589</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1695906668589</updated>
-    </task>
-    <task id="LOCAL-00013" summary="关于本人">
-      <option name="closed" value="true" />
-      <created>1695921246729</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1695921246729</updated>
-    </task>
-    <task id="LOCAL-00014" summary="关于本人">
-      <option name="closed" value="true" />
-      <created>1695923829449</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1695923829449</updated>
-    </task>
-    <task id="LOCAL-00015" summary="更新版本">
-      <option name="closed" value="true" />
-      <created>1695925427900</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1695925427901</updated>
+      <workItem from="1697527735916" duration="10428000" />
+      <workItem from="1697547342798" duration="455000" />
     </task>
     <task id="LOCAL-00016" summary="音乐馆更新">
       <option name="closed" value="true" />
@@ -518,7 +488,39 @@
       <option name="project" value="LOCAL" />
       <updated>1697541231259</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="徽章路径切换">
+      <option name="closed" value="true" />
+      <created>1697542240104</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1697542240104</updated>
+    </task>
+    <task id="LOCAL-00062" summary="将hexo-theme-anzhiyu切换至自己的git仓库">
+      <option name="closed" value="true" />
+      <created>1697543236091</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1697543236091</updated>
+    </task>
+    <task id="LOCAL-00063" summary="修改【关于】界面的音乐推荐链接">
+      <option name="closed" value="true" />
+      <created>1697544258463</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1697544258463</updated>
+    </task>
+    <task id="LOCAL-00064" summary="将主题换成自己的">
+      <option name="closed" value="true" />
+      <created>1697544700087</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1697544700087</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,10 +544,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/anzhiyu" />
     </ignored-roots>
-    <MESSAGE value="更新部分图片链接，加入底栏，打开[开往]" />
-    <MESSAGE value="十年之约" />
-    <MESSAGE value="更新图片路径" />
-    <MESSAGE value="修改底部栏，修改文章CSS" />
     <MESSAGE value="添加Microsoft Clarity" />
     <MESSAGE value="植入gulp" />
     <MESSAGE value="关闭baiduAnalysis" />
@@ -567,6 +565,10 @@
     <MESSAGE value="【关于】界面样式修改" />
     <MESSAGE value="全部修改为joker2yue.cn" />
     <MESSAGE value="恢复中控台" />
-    <option name="LAST_COMMIT_MESSAGE" value="恢复中控台" />
+    <MESSAGE value="徽章路径切换" />
+    <MESSAGE value="将hexo-theme-anzhiyu切换至自己的git仓库" />
+    <MESSAGE value="修改【关于】界面的音乐推荐链接" />
+    <MESSAGE value="将主题换成自己的" />
+    <option name="LAST_COMMIT_MESSAGE" value="将主题换成自己的" />
   </component>
 </project>
