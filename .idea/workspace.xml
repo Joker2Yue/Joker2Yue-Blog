@@ -4,12 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="设置image-container相关属性">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="将images添加回来，同时将图片压缩开到最大">
+      <change afterPath="$PROJECT_DIR$/hexo-offline/.github/dependabot.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo-offline/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo-offline/_config.landscape.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo-offline/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo-offline/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo-offline/scaffolds/draft.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo-offline/scaffolds/page.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo-offline/scaffolds/post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo-offline/source/_posts/hello-world.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexo-offline/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sw-rules.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/css/joker.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/css/joker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/source/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,15 +152,7 @@
       <workItem from="1699718162442" duration="379000" />
       <workItem from="1699718592127" duration="5285000" />
       <workItem from="1699724095160" duration="3556000" />
-      <workItem from="1699727771828" duration="1343000" />
-    </task>
-    <task id="LOCAL-00025" summary="增加友链功能">
-      <option name="closed" value="true" />
-      <created>1696057084276</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1696057084276</updated>
+      <workItem from="1699727771828" duration="4706000" />
     </task>
     <task id="LOCAL-00026" summary="友链功能完善">
       <option name="closed" value="true" />
@@ -534,7 +538,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699727366238</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="将images添加回来，同时将图片压缩开到最大">
+      <option name="closed" value="true" />
+      <created>1699729344508</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1699729344509</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -558,7 +570,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/anzhiyu" />
     </ignored-roots>
-    <MESSAGE value="gulp，clean something" />
     <MESSAGE value="gulp只添加minify-html" />
     <MESSAGE value="gulp不在Vercel部署" />
     <MESSAGE value="自定义meta" />
@@ -583,6 +594,7 @@
     <MESSAGE value="删除了images" />
     <MESSAGE value="设置图片优化策略" />
     <MESSAGE value="设置image-container相关属性" />
-    <option name="LAST_COMMIT_MESSAGE" value="设置image-container相关属性" />
+    <MESSAGE value="将images添加回来，同时将图片压缩开到最大" />
+    <option name="LAST_COMMIT_MESSAGE" value="将images添加回来，同时将图片压缩开到最大" />
   </component>
 </project>

@@ -1,8 +1,8 @@
 {
   "name": "Joker2Yue的个人博客",
   "short_name": "Joker2Yue",
-  "theme_color": "#3b70fc",
-  "background_color": "#3b70fc",
+  "theme_color": "#425AEF",
+  "background_color": "#1f1f1f",
   "display": "fullscreen",
   "scope": "/",
   "start_url": "/",
