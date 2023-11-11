@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="添加puppeteer-core">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="添加puppeteer">
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
@@ -139,15 +138,7 @@
       <workItem from="1699718162442" duration="379000" />
       <workItem from="1699718592127" duration="5285000" />
       <workItem from="1699724095160" duration="3556000" />
-      <workItem from="1699727771828" duration="10693000" />
-    </task>
-    <task id="LOCAL-00033" summary="修改底部栏，修改文章CSS">
-      <option name="closed" value="true" />
-      <created>1696584115629</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1696584115630</updated>
+      <workItem from="1699727771828" duration="11340000" />
     </task>
     <task id="LOCAL-00034" summary="添加Microsoft Clarity">
       <option name="closed" value="true" />
@@ -533,7 +524,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699738199753</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="添加puppeteer">
+      <option name="closed" value="true" />
+      <created>1699738889144</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1699738889144</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -557,7 +556,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/anzhiyu" />
     </ignored-roots>
-    <MESSAGE value="顶部栏修改【关于我】" />
     <MESSAGE value="部分文件修改" />
     <MESSAGE value="【关于】界面样式修改" />
     <MESSAGE value="全部修改为joker2yue.cn" />
@@ -582,6 +580,7 @@
     <MESSAGE value="修改了yarn.lock" />
     <MESSAGE value="修改版本号" />
     <MESSAGE value="添加puppeteer-core" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加puppeteer-core" />
+    <MESSAGE value="添加puppeteer" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加puppeteer" />
   </component>
 </project>
