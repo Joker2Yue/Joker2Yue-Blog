@@ -74,6 +74,14 @@ blockquote {
     width: 100%;
 }
 
-.image-container img{
-    margin: 0!important;
+.image-container img {
+    margin: 0 !important;
+    max-height: fit-content !important;
+    border-radius: 0 !important;
+}
+
+.image-container {
+    border-radius: 8px !important;
+    overflow: hidden;
+    margin-bottom:15px;
 }
