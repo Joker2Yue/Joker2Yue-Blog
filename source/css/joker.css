@@ -69,3 +69,11 @@ blockquote {
     top: 25px;
     width: 320px;
 }
+
+.image-container, .image-container img {
+    width: 100%;
+}
+
+.image-container img{
+    margin: 0!important;
+}

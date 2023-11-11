@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="更新hexo版本，启用all_minifier">
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="删除了images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/css/joker.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/css/joker.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Program/WebStorm/joker2yueBlog/themes&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Program/WebStorm/joker2yueBlog/source&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -73,11 +73,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Program\WebStorm\joker2yueBlog\source" />
       <recent name="E:\Program\WebStorm\joker2yueBlog\themes" />
       <recent name="E:\Program\WebStorm\joker2yueBlog\source\images\link\siteshot" />
       <recent name="E:\Program\WebStorm\joker2yueBlog\public\js" />
       <recent name="E:\Program\WebStorm\joker2yueBlog" />
-      <recent name="E:\Program\WebStorm\joker2yueBlog\source\images\banner" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Program\WebStorm\joker2yueBlog\.github\workflows" />
@@ -136,15 +136,8 @@
       <workItem from="1699713943876" duration="1355000" />
       <workItem from="1699715418994" duration="2063000" />
       <workItem from="1699718162442" duration="379000" />
-      <workItem from="1699718592127" duration="4717000" />
-    </task>
-    <task id="LOCAL-00022" summary="修改permalink">
-      <option name="closed" value="true" />
-      <created>1695988804389</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1695988804389</updated>
+      <workItem from="1699718592127" duration="5285000" />
+      <workItem from="1699724095160" duration="2067000" />
     </task>
     <task id="LOCAL-00023" summary="修改default_top_img">
       <option name="closed" value="true" />
@@ -530,7 +523,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699722129972</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="删除了images">
+      <option name="closed" value="true" />
+      <created>1699723640681</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1699723640681</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -554,7 +555,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/anzhiyu" />
     </ignored-roots>
-    <MESSAGE value="CSS替换为!important" />
     <MESSAGE value="删除joker" />
     <MESSAGE value="gulp，redeploy" />
     <MESSAGE value="gulp，clean something" />
@@ -579,6 +579,7 @@
     <MESSAGE value="修改website" />
     <MESSAGE value="更新" />
     <MESSAGE value="更新hexo版本，启用all_minifier" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新hexo版本，启用all_minifier" />
+    <MESSAGE value="删除了images" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除了images" />
   </component>
 </project>
