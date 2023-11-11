@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="配置更新">
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="修改website">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件设计师-18.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件设计师-18.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/软件设计师-19.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件设计师-19.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +59,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Program/WebStorm/joker2yueBlog/source/images/link/siteshot&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Program/WebStorm/joker2yueBlog/themes&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -72,8 +77,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Program\WebStorm\joker2yueBlog\source\images\link\siteshot" />
       <recent name="E:\Program\WebStorm\joker2yueBlog\themes" />
+      <recent name="E:\Program\WebStorm\joker2yueBlog\source\images\link\siteshot" />
       <recent name="E:\Program\WebStorm\joker2yueBlog\public\js" />
       <recent name="E:\Program\WebStorm\joker2yueBlog" />
       <recent name="E:\Program\WebStorm\joker2yueBlog\source\images\banner" />
@@ -126,31 +131,11 @@
       <workItem from="1697348284344" duration="2003000" />
       <workItem from="1697518668844" duration="239000" />
       <workItem from="1697527735916" duration="10428000" />
-      <workItem from="1697547342798" duration="1335000" />
-    </task>
-    <task id="LOCAL-00017" summary="更新图片路径">
-      <option name="closed" value="true" />
-      <created>1695977748929</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1695977748929</updated>
-    </task>
-    <task id="LOCAL-00018" summary="更新主色调">
-      <option name="closed" value="true" />
-      <created>1695978667443</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1695978667443</updated>
-    </task>
-    <task id="LOCAL-00019" summary="修复：当图片格式语法为&#10;![]()&#10;时导致的排版错乱问题">
-      <option name="closed" value="true" />
-      <created>1695985062495</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1695985062495</updated>
+      <workItem from="1697547342798" duration="2209000" />
+      <workItem from="1697590821268" duration="141000" />
+      <workItem from="1697682995996" duration="7082000" />
+      <workItem from="1698195448116" duration="28000" />
+      <workItem from="1699675184074" duration="1702000" />
     </task>
     <task id="LOCAL-00020" summary="移除无用语句及插件">
       <option name="closed" value="true" />
@@ -520,7 +505,31 @@
       <option name="project" value="LOCAL" />
       <updated>1697547873318</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="关闭网站上线时间">
+      <option name="closed" value="true" />
+      <created>1697548886302</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1697548886302</updated>
+    </task>
+    <task id="LOCAL-00067" summary="加入软件设计师">
+      <option name="closed" value="true" />
+      <created>1697686319222</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1697686319223</updated>
+    </task>
+    <task id="LOCAL-00068" summary="修改website">
+      <option name="closed" value="true" />
+      <created>1697686502445</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1697686502445</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,9 +553,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/anzhiyu" />
     </ignored-roots>
-    <MESSAGE value="植入gulp" />
-    <MESSAGE value="关闭baiduAnalysis" />
-    <MESSAGE value="尝试增加自动刷新多吉云" />
     <MESSAGE value="gulp配置" />
     <MESSAGE value="部分CSS修正" />
     <MESSAGE value="CSS替换为!important" />
@@ -569,6 +575,9 @@
     <MESSAGE value="修改【关于】界面的音乐推荐链接" />
     <MESSAGE value="将主题换成自己的" />
     <MESSAGE value="配置更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="配置更新" />
+    <MESSAGE value="关闭网站上线时间" />
+    <MESSAGE value="加入软件设计师" />
+    <MESSAGE value="修改website" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改website" />
   </component>
 </project>
