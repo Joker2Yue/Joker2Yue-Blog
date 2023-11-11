@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="修改版本号">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="修改版本号" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,15 +134,7 @@
       <workItem from="1699718162442" duration="379000" />
       <workItem from="1699718592127" duration="5285000" />
       <workItem from="1699724095160" duration="3556000" />
-      <workItem from="1699727771828" duration="9654000" />
-    </task>
-    <task id="LOCAL-00031" summary="更新图片路径">
-      <option name="closed" value="true" />
-      <created>1696069526429</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1696069526429</updated>
+      <workItem from="1699727771828" duration="10015000" />
     </task>
     <task id="LOCAL-00032" summary="更新图片路径">
       <option name="closed" value="true" />
@@ -533,7 +520,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699737607655</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="修改版本号">
+      <option name="closed" value="true" />
+      <created>1699737785126</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1699737785126</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
