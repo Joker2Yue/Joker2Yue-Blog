@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="发布1.0.0版本，更新到Hexo 7.0.0。使用hexo-offline" />
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="修改名称">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,15 +136,7 @@
       <workItem from="1699718162442" duration="379000" />
       <workItem from="1699718592127" duration="5285000" />
       <workItem from="1699724095160" duration="3556000" />
-      <workItem from="1699727771828" duration="8324000" />
-    </task>
-    <task id="LOCAL-00028" summary="更新部分图片链接">
-      <option name="closed" value="true" />
-      <created>1696066265840</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1696066265840</updated>
+      <workItem from="1699727771828" duration="8950000" />
     </task>
     <task id="LOCAL-00029" summary="更新部分图片链接，加入底栏，打开[开往]">
       <option name="closed" value="true" />
@@ -528,7 +522,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699736287452</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="修改名称">
+      <option name="closed" value="true" />
+      <created>1699736620203</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1699736620203</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -552,7 +554,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/anzhiyu" />
     </ignored-roots>
-    <MESSAGE value="自定义meta" />
     <MESSAGE value="自动折叠代码" />
     <MESSAGE value="修改友链中的信息" />
     <MESSAGE value="顶部栏【更多推荐】宽度" />
@@ -577,6 +578,7 @@
     <MESSAGE value="将images添加回来，同时将图片压缩开到最大" />
     <MESSAGE value="使用 swpp" />
     <MESSAGE value="发布1.0.0版本，更新到Hexo 7.0.0。使用hexo-offline" />
-    <option name="LAST_COMMIT_MESSAGE" value="发布1.0.0版本，更新到Hexo 7.0.0。使用hexo-offline" />
+    <MESSAGE value="修改名称" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改名称" />
   </component>
 </project>
