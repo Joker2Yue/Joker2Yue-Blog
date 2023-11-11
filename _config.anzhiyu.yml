@@ -973,11 +973,11 @@ rightside_item_order:
 
 # medium-zoom
 # https://github.com/francoischalifour/medium-zoom
-medium_zoom: false
+medium_zoom: true
 
 # fancybox
 # http://fancyapps.com/fancybox/3/
-fancybox: true
+fancybox: false
 
 # Tag Plugins settings (标籤外挂)
 # --------------------------------------

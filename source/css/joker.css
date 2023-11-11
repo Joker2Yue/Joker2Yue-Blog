@@ -85,3 +85,7 @@ blockquote {
     overflow: hidden;
     margin-bottom:15px;
 }
+
+.table-wrap {
+    width: 100%;
+}

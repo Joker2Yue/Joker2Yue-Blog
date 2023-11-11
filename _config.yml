@@ -225,10 +225,8 @@ image_minifier:
   enable: true
   interlaced: false
   multipass: false
-  optimizationLevel: 5
+  optimizationLevel: 7
   pngquant: true
-  progressive: false
+  progressive: true
   exclude:
-    - jpg
-    - svg
-    - gif
+    - png

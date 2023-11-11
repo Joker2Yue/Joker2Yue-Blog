@@ -1,12 +1,10 @@
 .DS_Store
 Thumbs.db
 db.json
-_config.Acrylic.yml
-_config.Acrylic.dev.yml
 *.log
 node_modules/
 public/
-source/images/
+#source/images/
 themes/
 .idea/
 .deploy*/

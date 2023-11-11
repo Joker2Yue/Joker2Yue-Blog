@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="设置图片优化策略">
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="设置image-container相关属性">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/css/joker.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/css/joker.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,15 +139,8 @@
       <workItem from="1699715418994" duration="2063000" />
       <workItem from="1699718162442" duration="379000" />
       <workItem from="1699718592127" duration="5285000" />
-      <workItem from="1699724095160" duration="3060000" />
-    </task>
-    <task id="LOCAL-00024" summary="修改default_top_img">
-      <option name="closed" value="true" />
-      <created>1695989441688</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1695989441688</updated>
+      <workItem from="1699724095160" duration="3556000" />
+      <workItem from="1699727771828" duration="1343000" />
     </task>
     <task id="LOCAL-00025" summary="增加友链功能">
       <option name="closed" value="true" />
@@ -530,7 +526,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699726340313</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="设置image-container相关属性">
+      <option name="closed" value="true" />
+      <created>1699727366238</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1699727366238</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -554,7 +558,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/anzhiyu" />
     </ignored-roots>
-    <MESSAGE value="gulp，redeploy" />
     <MESSAGE value="gulp，clean something" />
     <MESSAGE value="gulp只添加minify-html" />
     <MESSAGE value="gulp不在Vercel部署" />
@@ -579,6 +582,7 @@
     <MESSAGE value="更新hexo版本，启用all_minifier" />
     <MESSAGE value="删除了images" />
     <MESSAGE value="设置图片优化策略" />
-    <option name="LAST_COMMIT_MESSAGE" value="设置图片优化策略" />
+    <MESSAGE value="设置image-container相关属性" />
+    <option name="LAST_COMMIT_MESSAGE" value="设置image-container相关属性" />
   </component>
 </project>
