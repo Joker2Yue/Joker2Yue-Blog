@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="修改版本号" />
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="添加puppeteer-core">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,15 +139,7 @@
       <workItem from="1699718162442" duration="379000" />
       <workItem from="1699718592127" duration="5285000" />
       <workItem from="1699724095160" duration="3556000" />
-      <workItem from="1699727771828" duration="10015000" />
-    </task>
-    <task id="LOCAL-00032" summary="更新图片路径">
-      <option name="closed" value="true" />
-      <created>1696076910115</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1696076910115</updated>
+      <workItem from="1699727771828" duration="10693000" />
     </task>
     <task id="LOCAL-00033" summary="修改底部栏，修改文章CSS">
       <option name="closed" value="true" />
@@ -528,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699737785126</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="添加puppeteer-core">
+      <option name="closed" value="true" />
+      <created>1699738199753</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1699738199753</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -552,7 +557,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/anzhiyu" />
     </ignored-roots>
-    <MESSAGE value="顶部栏【更多推荐】宽度" />
     <MESSAGE value="顶部栏修改【关于我】" />
     <MESSAGE value="部分文件修改" />
     <MESSAGE value="【关于】界面样式修改" />
@@ -577,6 +581,7 @@
     <MESSAGE value="修改名称" />
     <MESSAGE value="修改了yarn.lock" />
     <MESSAGE value="修改版本号" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改版本号" />
+    <MESSAGE value="添加puppeteer-core" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加puppeteer-core" />
   </component>
 </project>

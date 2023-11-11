@@ -36,6 +36,7 @@
     "markdown-it-checkbox": "^1.1.0",
     "markdown-it-expandable": "^1.0.2",
     "markdown-it-imsize": "^2.0.1",
+    "puppeteer": "^21.5.1",
     "puppeteer-core": "^21.5.1",
     "pwa-asset-generator": "^6.3.1",
     "swpp-backends": "^2.1.4"
