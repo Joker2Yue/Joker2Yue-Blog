@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="使用 swpp">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw-rules.js" beforeDir="false" afterPath="$PROJECT_DIR$/sw-rules.cjs" afterDir="false" />
-    </list>
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="发布1.0.0版本，更新到Hexo 7.0.0。使用hexo-offline" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,15 +134,7 @@
       <workItem from="1699718162442" duration="379000" />
       <workItem from="1699718592127" duration="5285000" />
       <workItem from="1699724095160" duration="3556000" />
-      <workItem from="1699727771828" duration="7985000" />
-    </task>
-    <task id="LOCAL-00027" summary="更新主页的nav栏">
-      <option name="closed" value="true" />
-      <created>1696064617774</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1696064617774</updated>
+      <workItem from="1699727771828" duration="8324000" />
     </task>
     <task id="LOCAL-00028" summary="更新部分图片链接">
       <option name="closed" value="true" />
@@ -533,7 +520,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699732914964</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="发布1.0.0版本，更新到Hexo 7.0.0。使用hexo-offline">
+      <option name="closed" value="true" />
+      <created>1699736287452</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1699736287452</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -557,7 +552,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/anzhiyu" />
     </ignored-roots>
-    <MESSAGE value="gulp不在Vercel部署" />
     <MESSAGE value="自定义meta" />
     <MESSAGE value="自动折叠代码" />
     <MESSAGE value="修改友链中的信息" />
@@ -582,6 +576,7 @@
     <MESSAGE value="设置image-container相关属性" />
     <MESSAGE value="将images添加回来，同时将图片压缩开到最大" />
     <MESSAGE value="使用 swpp" />
-    <option name="LAST_COMMIT_MESSAGE" value="使用 swpp" />
+    <MESSAGE value="发布1.0.0版本，更新到Hexo 7.0.0。使用hexo-offline" />
+    <option name="LAST_COMMIT_MESSAGE" value="发布1.0.0版本，更新到Hexo 7.0.0。使用hexo-offline" />
   </component>
 </project>
