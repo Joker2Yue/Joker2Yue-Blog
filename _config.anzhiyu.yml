@@ -466,7 +466,7 @@ footer:
     list:
       - link: https://hexo.io/ #徽标指向网站链接
         shields: https://resource.joker2yue.cn/blog/images/badge/Frame-Hexo.svg #徽标API
-        message: 博客框架为Hexo_v6.3.0 #徽标提示语
+        message: 博客框架为Hexo_v7.0.0 #徽标提示语
       - link: https://blog.anheyu.com/
         shields: https://resource.joker2yue.cn/blog/images/badge/Theme-AnZhiYu.svg
         message: 本站使用AnZhiYu主题
@@ -495,6 +495,9 @@ footer:
        - title: X
          link: https://twitter.com/joker0222yue?s=09
          icon: fa-brands fa-x-twitter
+       - title: RSS
+         link: /atom.xml
+         icon: anzhiyu-icon-rss
     right:
        - title: Github
          link: https://github.com/Joker2Yue
@@ -505,6 +508,9 @@ footer:
        - title: 抖音
          link: https://m.douyin.com/share/user/MS4wLjABAAAAO0Ao94XycJ3Jq_IVPLElwAjdQOonWW53heh1785VFYo
          icon: anzhiyu-icon-tiktok
+       - title: CC
+         link: /copyright/
+         icon: anzhiyu-icon-copyright
   list:
     enable: true
     randomFriends: 2

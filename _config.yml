@@ -202,3 +202,54 @@ markdown:
     case: 0
     separator: "-"
 
+
+# RSS订阅
+feed:
+  enable: true
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: " "
+  order_by: -date
+
+
+# 压缩 HTML, CSS, JS and Image
+# https://github.com/chenzhutian/hexo-all-minifier?tab=readme-ov-file
+#启用all_minifier
+all_minifier: true
+# html压缩
+html_minifier:
+  enable: true
+  ignore_error: false
+  exclude:
+# css压缩
+css_minifier:
+  enable: true
+  exclude:
+    - '*.min.css'
+# js压缩
+js_minifier:
+  enable: true
+  mangle: true
+  compress:
+  exclude:
+    - '*.min.js'
+js_concator:
+  enable: false
+  bundle_path: '/js/bundle.js'
+  front: false
+  silent: false
+# 图片优化
+image_minifier:
+  enable: true
+  interlaced: false
+  multipass: false
+  optimizationLevel: 1
+  pngquant: true
+  progressive: false
+  exclude:
+    - svg
+    - gif

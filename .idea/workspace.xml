@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="修改website">
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="更新">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/软件设计师-18.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件设计师-18.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/软件设计师-19.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/软件设计师-19.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +64,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;D:\\Program Files\\JetBrains\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
@@ -135,15 +134,12 @@
       <workItem from="1697590821268" duration="141000" />
       <workItem from="1697682995996" duration="7082000" />
       <workItem from="1698195448116" duration="28000" />
-      <workItem from="1699675184074" duration="1702000" />
-    </task>
-    <task id="LOCAL-00020" summary="移除无用语句及插件">
-      <option name="closed" value="true" />
-      <created>1695987660656</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1695987660656</updated>
+      <workItem from="1699675184074" duration="3590000" />
+      <workItem from="1699705963094" duration="454000" />
+      <workItem from="1699713943876" duration="1355000" />
+      <workItem from="1699715418994" duration="2063000" />
+      <workItem from="1699718162442" duration="379000" />
+      <workItem from="1699718592127" duration="3069000" />
     </task>
     <task id="LOCAL-00021" summary="修改侧边栏中最新发布的条数">
       <option name="closed" value="true" />
@@ -529,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697686502445</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="更新">
+      <option name="closed" value="true" />
+      <created>1699684013605</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1699684013606</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +557,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/anzhiyu" />
     </ignored-roots>
-    <MESSAGE value="gulp配置" />
     <MESSAGE value="部分CSS修正" />
     <MESSAGE value="CSS替换为!important" />
     <MESSAGE value="删除joker" />
@@ -578,6 +581,7 @@
     <MESSAGE value="关闭网站上线时间" />
     <MESSAGE value="加入软件设计师" />
     <MESSAGE value="修改website" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改website" />
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
 </project>
