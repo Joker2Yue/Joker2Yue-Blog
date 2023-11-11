@@ -167,7 +167,7 @@ search:
 # PWA
 swpp:
   # 是否启用插件
-  enable: true
+  enable: false
   # 是否在发布前自动执行脚本
   auto_exec: true
 

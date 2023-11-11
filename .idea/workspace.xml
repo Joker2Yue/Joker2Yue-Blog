@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="添加puppeteer">
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="换回了hexo-offline">
+      <change afterPath="$PROJECT_DIR$/sw-dom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw-rules.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/sw-rules.cjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,15 +142,7 @@
       <workItem from="1699718162442" duration="379000" />
       <workItem from="1699718592127" duration="5285000" />
       <workItem from="1699724095160" duration="3556000" />
-      <workItem from="1699727771828" duration="11340000" />
-    </task>
-    <task id="LOCAL-00034" summary="添加Microsoft Clarity">
-      <option name="closed" value="true" />
-      <created>1696645869278</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1696645869278</updated>
+      <workItem from="1699727771828" duration="13997000" />
     </task>
     <task id="LOCAL-00035" summary="植入gulp">
       <option name="closed" value="true" />
@@ -532,7 +528,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699738889144</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="换回了hexo-offline">
+      <option name="closed" value="true" />
+      <created>1699739497086</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1699739497086</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,7 +560,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/anzhiyu" />
     </ignored-roots>
-    <MESSAGE value="部分文件修改" />
     <MESSAGE value="【关于】界面样式修改" />
     <MESSAGE value="全部修改为joker2yue.cn" />
     <MESSAGE value="恢复中控台" />
@@ -581,6 +584,7 @@
     <MESSAGE value="修改版本号" />
     <MESSAGE value="添加puppeteer-core" />
     <MESSAGE value="添加puppeteer" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加puppeteer" />
+    <MESSAGE value="换回了hexo-offline" />
+    <option name="LAST_COMMIT_MESSAGE" value="换回了hexo-offline" />
   </component>
 </project>
