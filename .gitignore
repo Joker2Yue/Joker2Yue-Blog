@@ -6,6 +6,7 @@ _config.Acrylic.dev.yml
 *.log
 node_modules/
 public/
+source/images/
 themes/
 .idea/
 .deploy*/
