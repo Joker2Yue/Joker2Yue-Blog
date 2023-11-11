@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="修改了yarn.lock">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="修改版本号">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,15 +139,7 @@
       <workItem from="1699718162442" duration="379000" />
       <workItem from="1699718592127" duration="5285000" />
       <workItem from="1699724095160" duration="3556000" />
-      <workItem from="1699727771828" duration="9330000" />
-    </task>
-    <task id="LOCAL-00030" summary="十年之约">
-      <option name="closed" value="true" />
-      <created>1696069295877</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1696069295877</updated>
+      <workItem from="1699727771828" duration="9654000" />
     </task>
     <task id="LOCAL-00031" summary="更新图片路径">
       <option name="closed" value="true" />
@@ -531,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699737416133</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="修改版本号">
+      <option name="closed" value="true" />
+      <created>1699737607655</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1699737607655</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,7 +557,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/anzhiyu" />
     </ignored-roots>
-    <MESSAGE value="修改友链中的信息" />
     <MESSAGE value="顶部栏【更多推荐】宽度" />
     <MESSAGE value="顶部栏修改【关于我】" />
     <MESSAGE value="部分文件修改" />
@@ -580,6 +581,7 @@
     <MESSAGE value="发布1.0.0版本，更新到Hexo 7.0.0。使用hexo-offline" />
     <MESSAGE value="修改名称" />
     <MESSAGE value="修改了yarn.lock" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改了yarn.lock" />
+    <MESSAGE value="修改版本号" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改版本号" />
   </component>
 </project>
