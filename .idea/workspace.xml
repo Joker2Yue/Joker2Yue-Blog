@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="换回了hexo-offline">
+    <list default="true" id="e6d61417-889d-4f52-a2ed-82bce199baed" name="更改" comment="暂时关闭pwa">
       <change afterPath="$PROJECT_DIR$/sw-dom.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.anzhiyu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.anzhiyu.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw-rules.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/sw-rules.cjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,15 +140,7 @@
       <workItem from="1699718162442" duration="379000" />
       <workItem from="1699718592127" duration="5285000" />
       <workItem from="1699724095160" duration="3556000" />
-      <workItem from="1699727771828" duration="13997000" />
-    </task>
-    <task id="LOCAL-00035" summary="植入gulp">
-      <option name="closed" value="true" />
-      <created>1696648982829</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1696648982829</updated>
+      <workItem from="1699727771828" duration="16699000" />
     </task>
     <task id="LOCAL-00036" summary="关闭baiduAnalysis">
       <option name="closed" value="true" />
@@ -536,7 +526,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699739497086</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="暂时关闭pwa">
+      <option name="closed" value="true" />
+      <created>1699742521708</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1699742521708</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -560,7 +558,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/anzhiyu" />
     </ignored-roots>
-    <MESSAGE value="【关于】界面样式修改" />
     <MESSAGE value="全部修改为joker2yue.cn" />
     <MESSAGE value="恢复中控台" />
     <MESSAGE value="徽章路径切换" />
@@ -585,6 +582,7 @@
     <MESSAGE value="添加puppeteer-core" />
     <MESSAGE value="添加puppeteer" />
     <MESSAGE value="换回了hexo-offline" />
-    <option name="LAST_COMMIT_MESSAGE" value="换回了hexo-offline" />
+    <MESSAGE value="暂时关闭pwa" />
+    <option name="LAST_COMMIT_MESSAGE" value="暂时关闭pwa" />
   </component>
 </project>
