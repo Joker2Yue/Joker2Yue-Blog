@@ -38,6 +38,6 @@
     "markdown-it-expandable": "^1.0.2",
     "markdown-it-imsize": "^2.0.1",
     "pwa-asset-generator": "^6.3.1",
-    "swpp-backends": "^2.1.4"
+    "swpp-backends": "^2.2.0"
   }
 }
