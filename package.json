@@ -32,7 +32,7 @@
     "hexo-renderer-stylus": "^3.0.0",
     "hexo-server": "^3.0.0",
     "hexo-swpp": "^3.3.1",
-    "hexo-theme-anzhiyu": "^1.6.9",
+    "hexo-theme-anzhiyu": "^1.6.11",
     "hexo-wordcount": "^6.0.1",
     "markdown-it-checkbox": "^1.1.0",
     "markdown-it-expandable": "^1.0.2",
